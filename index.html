@@ -1,35 +1,387 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<title>BetCalc</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+
+	<script>
+	var dbg = false;
+	var bets;
+	
+	function geturlparamvalue(name) {
+		name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+		var regexS = "[\\?&]" + name + "=([^&#]*)";
+		var regex = new RegExp(regexS);
+		var results = regex.exec(window.location.href);
+		if(results!=null){
+			return results[1];
+		}else{
+			return -1;
+		}
+	}
+
+	function getTaxaFromNCBI(ind, idNCBI){
+		if(dbg){console.log("getting taxa for id=",ind);}
+		$.ajax({
+			url: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&rettype=gb&retmode=xml&id="+idNCBI,
+			success: function(result){
+				// res=result;
+				// console.log("res=", result);
+				var taxaString = new XMLSerializer().serializeToString(result);
+				var taxa = /<GBSeq_taxonomy>(.*)<\/GBSeq_taxonomy>/g.exec(taxaString);
+				if(dbg){console.log("taxa=", taxa[1]);}
+				allSequences[ind][2] = taxa[1].trim();
+				
+				callsNCBIDone += 0.5;
+				progress = callsNCBIDone*100.0/accIDs.length;
+				progress = progress.toFixed(2);
+				if(!errorHasOccured){$('#ncbiprogress').html(progress+'%');}
+				if(callsNCBIDone == accIDs.length && !errorHasOccured){
+					time = new Date();
+					step1B = time.getTime();
+					computeDistMatrix();
+				}
+			},
+			error: function(xhr, status, error) {
+				console.log('STATUS=',status,'ERROR getTaxaFromNCBI=',error);
+				errorHasOccured = true;
+				$('#ncbiprogress').html('<div class="alert alert-danger" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Error:</span>'+' ERROR [<strong>'+error+'</strong>] while fetching Taxonomy data from NCBI for [<strong>'+accID+'</strong>]</div>');
+			}
+		});		
+	}
+
+	$(document).ready(function(){
+
+		$(".cellstyle").css("background-color","lightgrey");
+		$(".tableborder").css("background-color","#F8B801");
+		
+
+		$.ajax({url: "./bets.txt", success: function(result){
+			bets=JSON.parse(result)['bets'];
+			//console.log(bets);
+			for(var i=0; i<bets.length; i++){
+				$('#betTypeSelect').append($('<option>', {
+				    value: i,
+				    text: bets[i][0]
+				}));
+			}
+		}});
+
+		$("#betTypeSelect").change(function(){
+			$('#betTypeOptionsSelect').html('');
+			var selectedIndex = $("#betTypeSelect").val();
+			if(selectedIndex >= 0){
+				console.log(bets[selectedIndex]);	
+				for(var i=0; i<bets[selectedIndex][1].length; i++){
+					console.log(bets[selectedIndex][1][i]);
+					$('#betTypeOptionsSelect').append($('<option>', {
+						value: i,
+						text: bets[selectedIndex][1][i]
+					}));
+				}
+			}
+		});
+
+		$("#betTypeOptionsSelect").change(function(){
+
+		});
+
+	});
+
+	</script>
+
+	<style>
+	body {
+		margin-bottom: 60px;
+	}
+	.cellstyle {
+	    float:center;
+	    position: relative;
+	    /*width: 30%;*/
+	    padding: 3px; 
+	    /*width: 3%;
+	    height: 3%;*/
+	    /*margin: 2px;*/
+	}
+	</style>
 </head>
 <body>
 
-		<div class="container">
-			<div class="jumbotron">
-			  <h1>Hello from Sublime!</h1>      
-			  <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+	<div class = "page-header">
+		<h2 class="text-center">BetCalc</h2>
+	</div>
+
+	<div class="container">
+		<ul class="nav nav-tabs" id="guide-tabs">
+			<li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+			<!-- <li><a data-toggle="tab" href="#menu1">Explore a Map</a></li>
+			<li><a data-toggle="tab" href="#menu2">Build a Map</a></li> -->
+			<li><a data-toggle="tab" href="#menu3">About</a></li>
+		</ul>
+
+		<div class="tab-content">
+			<div id="home" class="tab-pane fade in active">
+				<p></p>
+				<p>BetCalc is self explanatory.</p>
+
+				<div id="bettable" class="col-xs-8">
+					<table border="3">
+						<tr>
+							<td class="tableborder cellstyle">A - B</td>
+							<td class="tableborder cellstyle">X - 0</td>
+							<td class="tableborder cellstyle">X - 1</td>
+							<td class="tableborder cellstyle">X - 2</td>
+							<td class="tableborder cellstyle">X - 3</td>
+							<td class="tableborder cellstyle">X - 4</td>
+							<td class="tableborder cellstyle">X - 5</td>
+							<td class="tableborder cellstyle">X - 6</td>
+							<td class="tableborder cellstyle">X - 7</td>
+							<td class="tableborder cellstyle">X - 8</td>
+							<td class="tableborder cellstyle">X - 9</td>
+							<td class="tableborder cellstyle">X - 10</td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">0 - X</td>
+							<td class="cellstyle">0 - 0<div id="0x0">0</div></td>
+							<td class="cellstyle">0 - 1<div id="0x1">0</div></td>
+							<td class="cellstyle">0 - 2<div id="0x2">0</div></td>
+							<td class="cellstyle">0 - 3<div id="0x3">0</div></td>
+							<td class="cellstyle">0 - 4<div id="0x4">0</div></td>
+							<td class="cellstyle">0 - 5<div id="0x5">0</div></td>
+							<td class="cellstyle">0 - 6<div id="0x6">0</div></td>
+							<td class="cellstyle">0 - 7<div id="0x7">0</div></td>
+							<td class="cellstyle">0 - 8<div id="0x8">0</div></td>
+							<td class="cellstyle">0 - 9<div id="0x9">0</div></td>
+							<td class="cellstyle">0 - 10<div id="0x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">1 - X</td>
+							<td class="cellstyle">1 - 0<div id="1x0">0</div></td>
+							<td class="cellstyle">1 - 1<div id="1x1">0</div></td>
+							<td class="cellstyle">1 - 2<div id="1x2">0</div></td>
+							<td class="cellstyle">1 - 3<div id="1x3">0</div></td>
+							<td class="cellstyle">1 - 4<div id="1x4">0</div></td>
+							<td class="cellstyle">1 - 5<div id="1x5">0</div></td>
+							<td class="cellstyle">1 - 6<div id="1x6">0</div></td>
+							<td class="cellstyle">1 - 7<div id="1x7">0</div></td>
+							<td class="cellstyle">1 - 8<div id="1x8">0</div></td>
+							<td class="cellstyle">1 - 9<div id="1x9">0</div></td>
+							<td class="cellstyle">1 - 10<div id="1x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">2 - X</td>
+							<td class="cellstyle">2 - 0<div id="2x0">0</div></td>
+							<td class="cellstyle">2 - 1<div id="2x1">0</div></td>
+							<td class="cellstyle">2 - 2<div id="2x2">0</div></td>
+							<td class="cellstyle">2 - 3<div id="2x3">0</div></td>
+							<td class="cellstyle">2 - 4<div id="2x4">0</div></td>
+							<td class="cellstyle">2 - 5<div id="2x5">0</div></td>
+							<td class="cellstyle">2 - 6<div id="2x6">0</div></td>
+							<td class="cellstyle">2 - 7<div id="2x7">0</div></td>
+							<td class="cellstyle">2 - 8<div id="2x8">0</div></td>
+							<td class="cellstyle">2 - 9<div id="2x9">0</div></td>
+							<td class="cellstyle">2 - 10<div id="2x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">3 - X</td>
+							<td class="cellstyle">3 - 0<div id="3x0">0</div></td>
+							<td class="cellstyle">3 - 1<div id="3x1">0</div></td>
+							<td class="cellstyle">3 - 2<div id="3x2">0</div></td>
+							<td class="cellstyle">3 - 3<div id="3x3">0</div></td>
+							<td class="cellstyle">3 - 4<div id="3x4">0</div></td>
+							<td class="cellstyle">3 - 5<div id="3x5">0</div></td>
+							<td class="cellstyle">3 - 6<div id="3x6">0</div></td>
+							<td class="cellstyle">3 - 7<div id="3x7">0</div></td>
+							<td class="cellstyle">3 - 8<div id="3x8">0</div></td>
+							<td class="cellstyle">3 - 9<div id="3x9">0</div></td>
+							<td class="cellstyle">3 - 10<div id="3x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">4 - X</td>
+							<td class="cellstyle">4 - 0<div id="4x0">0</div></td>
+							<td class="cellstyle">4 - 1<div id="4x1">0</div></td>
+							<td class="cellstyle">4 - 2<div id="4x2">0</div></td>
+							<td class="cellstyle">4 - 3<div id="4x3">0</div></td>
+							<td class="cellstyle">4 - 4<div id="4x4">0</div></td>
+							<td class="cellstyle">4 - 5<div id="4x5">0</div></td>
+							<td class="cellstyle">4 - 6<div id="4x6">0</div></td>
+							<td class="cellstyle">4 - 7<div id="4x7">0</div></td>
+							<td class="cellstyle">4 - 8<div id="4x8">0</div></td>
+							<td class="cellstyle">4 - 9<div id="4x9">0</div></td>
+							<td class="cellstyle">4 - 10<div id="4x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">5 - X</td>
+							<td class="cellstyle">5 - 0<div id="5x0">0</div></td>
+							<td class="cellstyle">5 - 1<div id="5x1">0</div></td>
+							<td class="cellstyle">5 - 2<div id="5x2">0</div></td>
+							<td class="cellstyle">5 - 3<div id="5x3">0</div></td>
+							<td class="cellstyle">5 - 4<div id="5x4">0</div></td>
+							<td class="cellstyle">5 - 5<div id="5x5">0</div></td>
+							<td class="cellstyle">5 - 6<div id="5x6">0</div></td>
+							<td class="cellstyle">5 - 7<div id="5x7">0</div></td>
+							<td class="cellstyle">5 - 8<div id="5x8">0</div></td>
+							<td class="cellstyle">5 - 9<div id="5x9">0</div></td>
+							<td class="cellstyle">5 - 10<div id="5x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">6 - X</td>
+							<td class="cellstyle">6 - 0<div id="6x0">0</div></td>
+							<td class="cellstyle">6 - 1<div id="6x1">0</div></td>
+							<td class="cellstyle">6 - 2<div id="6x2">0</div></td>
+							<td class="cellstyle">6 - 3<div id="6x3">0</div></td>
+							<td class="cellstyle">6 - 4<div id="6x4">0</div></td>
+							<td class="cellstyle">6 - 5<div id="6x5">0</div></td>
+							<td class="cellstyle">6 - 6<div id="6x6">0</div></td>
+							<td class="cellstyle">6 - 7<div id="6x7">0</div></td>
+							<td class="cellstyle">6 - 8<div id="6x8">0</div></td>
+							<td class="cellstyle">6 - 9<div id="6x9">0</div></td>
+							<td class="cellstyle">6 - 10<div id="6x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">7 - X</td>
+							<td class="cellstyle">7 - 0<div id="7x0">0</div></td>
+							<td class="cellstyle">7 - 1<div id="7x1">0</div></td>
+							<td class="cellstyle">7 - 2<div id="7x2">0</div></td>
+							<td class="cellstyle">7 - 3<div id="7x3">0</div></td>
+							<td class="cellstyle">7 - 4<div id="7x4">0</div></td>
+							<td class="cellstyle">7 - 5<div id="7x5">0</div></td>
+							<td class="cellstyle">7 - 6<div id="7x6">0</div></td>
+							<td class="cellstyle">7 - 7<div id="7x7">0</div></td>
+							<td class="cellstyle">7 - 8<div id="7x8">0</div></td>
+							<td class="cellstyle">7 - 9<div id="7x9">0</div></td>
+							<td class="cellstyle">7 - 10<div id="7x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">8 - X</td>
+							<td class="cellstyle">8 - 0<div id="8x0">0</div></td>
+							<td class="cellstyle">8 - 1<div id="8x1">0</div></td>
+							<td class="cellstyle">8 - 2<div id="8x2">0</div></td>
+							<td class="cellstyle">8 - 3<div id="8x3">0</div></td>
+							<td class="cellstyle">8 - 4<div id="8x4">0</div></td>
+							<td class="cellstyle">8 - 5<div id="8x5">0</div></td>
+							<td class="cellstyle">8 - 6<div id="8x6">0</div></td>
+							<td class="cellstyle">8 - 7<div id="8x7">0</div></td>
+							<td class="cellstyle">8 - 8<div id="8x8">0</div></td>
+							<td class="cellstyle">8 - 9<div id="8x9">0</div></td>
+							<td class="cellstyle">8 - 10<div id="8x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">9 - X</td>
+							<td class="cellstyle">9 - 0<div id="9x0">0</div></td>
+							<td class="cellstyle">9 - 1<div id="9x1">0</div></td>
+							<td class="cellstyle">9 - 2<div id="9x2">0</div></td>
+							<td class="cellstyle">9 - 3<div id="9x3">0</div></td>
+							<td class="cellstyle">9 - 4<div id="9x4">0</div></td>
+							<td class="cellstyle">9 - 5<div id="9x5">0</div></td>
+							<td class="cellstyle">9 - 6<div id="9x6">0</div></td>
+							<td class="cellstyle">9 - 7<div id="9x7">0</div></td>
+							<td class="cellstyle">9 - 8<div id="9x8">0</div></td>
+							<td class="cellstyle">9 - 9<div id="9x9">0</div></td>
+							<td class="cellstyle">9 - 10<div id="9x10">0</div></td>
+						</tr>
+						<tr>
+							<td class="cellstyle tableborder">10 - X</td>
+							<td class="cellstyle">10 - 0<div id="10x0">0</div></td>
+							<td class="cellstyle">10 - 1<div id="10x1">0</div></td>
+							<td class="cellstyle">10 - 2<div id="10x2">0</div></td>
+							<td class="cellstyle">10 - 3<div id="10x3">0</div></td>
+							<td class="cellstyle">10 - 4<div id="10x4">0</div></td>
+							<td class="cellstyle">10 - 5<div id="10x5">0</div></td>
+							<td class="cellstyle">10 - 6<div id="10x6">0</div></td>
+							<td class="cellstyle">10 - 7<div id="10x7">0</div></td>
+							<td class="cellstyle">10 - 8<div id="10x8">0</div></td>
+							<td class="cellstyle">10 - 9<div id="10x9">0</div></td>
+							<td class="cellstyle">10 - 10<div id="10x10">0</div></td>
+						</tr>
+					</table>
+				</div>
+				<div id="bets" class="col-xs-4">
+					<div id="betsSoFar" class="col-xs-12">Bets So Far:</div>
+					
+					<div id="betType" class="col-xs-12">
+						BetType:
+						<select id="betTypeSelect">
+							<option value="-1">Select</option>
+						</select>
+					</div>
+					
+					<div id="betTypeOptions" class="col-xs-12">
+						BetOptions:
+						<select id="betTypeOptionsSelect"></select>
+					</div>
+
+					<div id="betTypeOdds" class="col-xs-12">
+						BetOdds:
+						<input type="number" name="betTypeOddsValue" value="1">
+					</div>
+
+					<div id="betTypeAmount" class="col-xs-12">
+						BetAmount:
+						<input type="number" name="betTypeAmountValue" value="1">
+					</div>
+
+					<div id="placeBetButton" class="col-xs-12">
+						<input type="button" name="addBet" value="PlaceBet!">
+					</div>
+				</div>
 			</div>
 
-			<!-- <form class="form-signin">
-		        <h2 class="form-signin-heading">Please sign in</h2>
-		        <label for="inputEmail" class="sr-only">Email address</label>
-		        <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-		        <label for="inputPassword" class="sr-only">Password</label>
-		        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
-		        <div class="checkbox">
-		          <label>
-		            <input type="checkbox" value="remember-me"> Remember me
-		          </label>
-		        </div>
-		        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-		    </form> -->
+			<div id="menu3" class="tab-pane fade">
+				<p>
+					<dl class="dl-horizontal">
+						<dt>Coded by:</dt>
+						<dd>Rallis Karamichalis, 2016</dd>
+						<dt>Github Page:</dt>
+						<dd><a href="http://rallis.github.io/betcalc/" target="_blank">http://rallis.github.io/betcalc/</a></dd>
+						<dt>Github Code:</dt>
+						<dd><a href="http://github.com/rallis/betcalc/" target="_blank">http://github.com/rallis/betcalc/</a></dd>
+					</dl>
+				</p>	
 
-		</div>
-	</body>
+			</div>
+		</div>	
+	</div>
+
+</body>
 </html>
+
+<!-- <p>
+					<dl class="dl-horizontal">
+						<dt>BetCalc:</dt>
+						<dd>BetCalc is self explanatory.</dd>
+						<dt>Team A:</dt>
+						<dd><input type="text" name="teamA" value="a" /></dd>
+						<dt>Team B:</dt>
+						<dd><input type="text" name="teamA" value="b" /></dd>
+					</dl>
+				</p> -->
+
+				<!-- //$('#listgroupsofmaps').html(outcome);
+
+			// outcome+='<div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#modmap-accordion-'+i+'" href="#modmap-collapse-'+i+'">'+resfetch[i][0]+'&nbsp;&nbsp;<span class="badge">'+resfetch[i][1].length+'</span></a></h4></div>';
+			// var tmp='<div id="modmap-collapse-'+i+'" class="panel-collapse collapse out"><div class="panel-body"><ul class="list-group large-group">';
+			// for(var j=0; j<resfetch[i][1].length; j++){
+			// 	tmp+='<li class="list-group-item"><a href="#">'+resfetch[i][1][j]+'</a></li>';
+			// }
+			// tmp+='</ul></div></div>';
+			// outcome+=tmp;
+				
+			// LOAD PREVIEW CONTENT FOR EACH FILENAME
+			// $(".list-group-item").click(function() {
+			// 	$("#filecontent").html('<img src="img/loading.gif" width="50" height="50"/>');
+			// 	console.log('Loading = '+$(this).text());
+			// 	mapID=$(this).text();
+			// 	$.ajax({
+			// 		url: "maps/"+mapID, 
+			// 		success: function(result){
+			// 			var resfetch=result.split("\n");
+			// 			$("#filecontent").html('<p id="mapId"><strong>'+resfetch[5]+'</strong></p><p>'+resfetch[6]+'</p><a href="load.html?mapid='+mapID+'" target="_blank">Show Map</a><p></p>');
+			// 		}
+			// 	});
+			// }); -->
