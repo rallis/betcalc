@@ -34,7 +34,7 @@
 		for(var i=0; i<betsSoFar.length; i++){
 			betsPlayed.push(betsSoFar[i]);
 		}
-		betsPlayed.push([betType, betTypeOptions, betTypeOddsValue, betTypeAmountValue]);
+		betsPlayed.push([betType, betTypeOptions, betTypeOddsValue, betTypeAmountValue, "NotFixedYet"]);
 		console.log("betsPlayed=",betsPlayed);
 		
 		var fMat=[];
@@ -42,12 +42,13 @@
 			fMat.push([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
 		}
 
-		var curType, curOption, curOdd, curAmount, betTable='<tr><th>$$$</th><th>Odds</th><th>Option</th><th>Type</th></tr>';
+		var curType, curOption, curOdd, curAmount, curStatus, betTable='<tr><th>$$$</th><th>Odds</th><th>Option</th><th>Type</th><th>Status</th></tr>';
 		for(var ind=0; ind<betsPlayed.length; ind++){
 			curType = betsPlayed[ind][0];
 			curOption = betsPlayed[ind][1];
 			curOdd = betsPlayed[ind][2];
 			curAmount = betsPlayed[ind][3];
+			curStatus = betsPlayed[ind][4];
 			console.log("Starting: ",curType,curOption,curOdd,curAmount);
 
 			for(var i=0; i<=10; i++){
@@ -76,7 +77,7 @@
 			}
 			
 			console.log("Finished: ",curType,curOption,curOdd,curAmount);
-			betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td></tr>';
+			betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td><td>'+curStatus+'</td></tr>';
 		}
 
 		$("#betTableSoFar").html(betTable);
@@ -128,12 +129,18 @@
 		});
 
 		$("#addBet").click(function(){
-			betsSoFar.push([
-				$("#betTypeSelect option:selected").text(),
-				$("#betTypeOptionsSelect option:selected").text(),
-				parseFloat($("#betTypeOddsValue").val()),
-				parseFloat($("#betTypeAmountValue").val())
-				]);
+			if($("#betTypeSelect option:selected").text()!="Select"){
+				betsSoFar.push([
+					$("#betTypeSelect option:selected").text(),
+					$("#betTypeOptionsSelect option:selected").text(),
+					parseFloat($("#betTypeOddsValue").val()),
+					parseFloat($("#betTypeAmountValue").val()),
+					"Fixed"
+				]);	
+				$("#betTypeSelect").val(-1);
+				$("#betTypeOptionsSelect").html('');
+				updateOddsTable();
+			}
 		});
 
 	});
