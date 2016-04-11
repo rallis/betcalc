@@ -1,6 +1,9 @@
 {	
 	"bets": [
 		["1x2", ["1", "x", "2"]],
-		["doublechance", ["1x", "12", "x2"]]		
+		["doublechance", ["1x", "12", "x2"]],
+		["OU_goals",["over05","under05","over15","under15","over25","under25","over35","under35","over45","under45","over55","under55","over65","under65","over75","under75","over85","under85","over95","under95"]],
+		["drawnobet",["1","2"]],
+		["oddeven_goals", ["odd","even"]]
 	]
 }

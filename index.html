@@ -59,23 +59,132 @@
 			for(var i=0; i<=10; i++){
 				for(var j=0; j<=10; j++){
 					switch(curType+'#'+curOption){
+						//1x2
 						case '1x2#1':
-							if(i>j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i>j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i<=j){fMat[i][j]-= curAmount}
 							break;	
 						case '1x2#x':
-							if(i==j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i==j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i!=j){fMat[i][j]-= curAmount}
 							break;
 						case '1x2#2':
-							if(i<j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i<j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i>=j){fMat[i][j]-= curAmount}
 							break;
+						//doublechance
 						case 'doublechance#1x':
-							if(i>=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i>=j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i<j){fMat[i][j]-= curAmount}
 							break;
 						case 'doublechance#12':
-							if(i!=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i!=j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i==j){fMat[i][j]-= curAmount}
 							break;
 						case 'doublechance#x2':
-							if(i<=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							if(i<=j){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i>j){fMat[i][j]-= curAmount}
+							break;
+						//drawnobet
+						case 'drawnobet#1':
+							if(i>j){fMat[i][j]+= (curOdd-1)*curAmount}
+							// i==j, nothing
+							if(i<j){fMat[i][j]-= curAmount}
+							break;
+						case 'drawnobet#2':
+							if(i<j){fMat[i][j]+= (curOdd-1)*curAmount}
+							// i==j, nothing
+							if(i>j){fMat[i][j]-= curAmount}
+							break;
+						//oddeven_goals
+						case 'oddeven_goals#odd':
+							if((i+j)%2==1){fMat[i][j]+= (curOdd-1)*curAmount}
+							if((i+j)%2==0){fMat[i][j]-= curAmount}
+							break;
+						case 'oddeven_goals#even':
+							if((i+j)%2==0){fMat[i][j]+= (curOdd-1)*curAmount}
+							if((i+j)%2==1){fMat[i][j]-= curAmount}
+							break;
+						//OU_goals
+						case 'OU_goals#over05':
+							if(i+j> 0.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=0.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under05':
+							if(i+j< 0.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=0.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over15':
+							if(i+j> 1.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=1.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under15':
+							if(i+j< 1.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=1.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over25':
+							if(i+j> 2.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=2.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under25':
+							if(i+j< 2.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=2.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over35':
+							if(i+j> 3.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=3.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under35':
+							if(i+j< 3.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=3.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over45':
+							if(i+j> 4.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=4.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under45':
+							if(i+j< 4.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=4.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over55':
+							if(i+j> 5.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=5.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under55':
+							if(i+j< 5.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=5.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over65':
+							if(i+j> 6.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=6.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under65':
+							if(i+j< 6.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=6.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over75':
+							if(i+j> 7.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=7.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under75':
+							if(i+j< 7.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=7.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over85':
+							if(i+j> 8.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=8.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under85':
+							if(i+j< 8.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=8.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#over95':
+							if(i+j> 9.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j<=9.5){fMat[i][j]-= curAmount}
+							break;
+						case 'OU_goals#under95':
+							if(i+j< 9.5){fMat[i][j]+= (curOdd-1)*curAmount}
+							if(i+j>=9.5){fMat[i][j]-= curAmount}
 							break;
 					}
 				}
