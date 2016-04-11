@@ -7,11 +7,10 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	
 
 	<script>
 	var dbg = false;
-	var bets;
+	var bets, betsSoFar=[], betsPlayed;
 	
 	function geturlparamvalue(name) {
 		name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
@@ -25,42 +24,78 @@
 		}
 	}
 
-	function getTaxaFromNCBI(ind, idNCBI){
-		if(dbg){console.log("getting taxa for id=",ind);}
-		$.ajax({
-			url: "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&rettype=gb&retmode=xml&id="+idNCBI,
-			success: function(result){
-				// res=result;
-				// console.log("res=", result);
-				var taxaString = new XMLSerializer().serializeToString(result);
-				var taxa = /<GBSeq_taxonomy>(.*)<\/GBSeq_taxonomy>/g.exec(taxaString);
-				if(dbg){console.log("taxa=", taxa[1]);}
-				allSequences[ind][2] = taxa[1].trim();
-				
-				callsNCBIDone += 0.5;
-				progress = callsNCBIDone*100.0/accIDs.length;
-				progress = progress.toFixed(2);
-				if(!errorHasOccured){$('#ncbiprogress').html(progress+'%');}
-				if(callsNCBIDone == accIDs.length && !errorHasOccured){
-					time = new Date();
-					step1B = time.getTime();
-					computeDistMatrix();
+	function updateOddsTable(){
+		var betType = $("#betTypeSelect option:selected").text();
+		var betTypeOptions = $("#betTypeOptionsSelect option:selected").text();
+		var betTypeOddsValue = parseFloat($("#betTypeOddsValue").val());
+		var betTypeAmountValue = parseFloat($("#betTypeAmountValue").val());
+
+		betsPlayed = []
+		for(var i=0; i<betsSoFar.length; i++){
+			betsPlayed.push(betsSoFar[i]);
+		}
+		betsPlayed.push([betType, betTypeOptions, betTypeOddsValue, betTypeAmountValue]);
+		console.log("betsPlayed=",betsPlayed);
+		
+		var fMat=[];
+		for(var i=0; i<=10; i++){
+			fMat.push([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
+		}
+
+		var curType, curOption, curOdd, curAmount, betTable='<tr><th>$$$</th><th>Odds</th><th>Option</th><th>Type</th></tr>';
+		for(var ind=0; ind<betsPlayed.length; ind++){
+			curType = betsPlayed[ind][0];
+			curOption = betsPlayed[ind][1];
+			curOdd = betsPlayed[ind][2];
+			curAmount = betsPlayed[ind][3];
+			console.log("Starting: ",curType,curOption,curOdd,curAmount);
+
+			for(var i=0; i<=10; i++){
+				for(var j=0; j<=10; j++){
+					switch(curType+'#'+curOption){
+						case '1x2#1':
+							if(i>j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;	
+						case '1x2#x':
+							if(i==j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case '1x2#2':
+							if(i<j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'doublechance#1x':
+							if(i>=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'doublechance#12':
+							if(i!=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'doublechance#x2':
+							if(i<=j){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+					}
 				}
-			},
-			error: function(xhr, status, error) {
-				console.log('STATUS=',status,'ERROR getTaxaFromNCBI=',error);
-				errorHasOccured = true;
-				$('#ncbiprogress').html('<div class="alert alert-danger" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Error:</span>'+' ERROR [<strong>'+error+'</strong>] while fetching Taxonomy data from NCBI for [<strong>'+accID+'</strong>]</div>');
 			}
-		});		
+			
+			console.log("Finished: ",curType,curOption,curOdd,curAmount);
+			betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td></tr>';
+		}
+
+		$("#betTableSoFar").html(betTable);
+
+		//console.log(fMat);
+		for(var i=0; i<=10; i++){
+			for(var j=0; j<=10; j++){
+				$("#"+i+"x"+j).html(+fMat[i][j].toFixed(2));
+				if(fMat[i][j]>0){ $("#"+i+"x"+j).css("background-color", "green"); }
+				if(fMat[i][j]==0){ $("#"+i+"x"+j).css("background-color", "lightgrey"); }
+				if(fMat[i][j]<0){ $("#"+i+"x"+j).css("background-color", "red"); }
+			}
+		}
 	}
 
 	$(document).ready(function(){
-
 		$(".cellstyle").css("background-color","lightgrey");
 		$(".tableborder").css("background-color","#F8B801");
 		
-
 		$.ajax({url: "./bets.txt", success: function(result){
 			bets=JSON.parse(result)['bets'];
 			//console.log(bets);
@@ -76,7 +111,7 @@
 			$('#betTypeOptionsSelect').html('');
 			var selectedIndex = $("#betTypeSelect").val();
 			if(selectedIndex >= 0){
-				console.log(bets[selectedIndex]);	
+				//console.log(bets[selectedIndex]);	
 				for(var i=0; i<bets[selectedIndex][1].length; i++){
 					console.log(bets[selectedIndex][1][i]);
 					$('#betTypeOptionsSelect').append($('<option>', {
@@ -85,10 +120,20 @@
 					}));
 				}
 			}
+			updateOddsTable();
 		});
 
 		$("#betTypeOptionsSelect").change(function(){
+			updateOddsTable();
+		});
 
+		$("#addBet").click(function(){
+			betsSoFar.push([
+				$("#betTypeSelect option:selected").text(),
+				$("#betTypeOptionsSelect option:selected").text(),
+				parseFloat($("#betTypeOddsValue").val()),
+				parseFloat($("#betTypeAmountValue").val())
+				]);
 		});
 
 	});
@@ -119,16 +164,13 @@
 	<div class="container">
 		<ul class="nav nav-tabs" id="guide-tabs">
 			<li class="active"><a data-toggle="tab" href="#home">Home</a></li>
-			<!-- <li><a data-toggle="tab" href="#menu1">Explore a Map</a></li>
-			<li><a data-toggle="tab" href="#menu2">Build a Map</a></li> -->
 			<li><a data-toggle="tab" href="#menu3">About</a></li>
 		</ul>
 
 		<div class="tab-content">
 			<div id="home" class="tab-pane fade in active">
 				<p></p>
-				<p>BetCalc is self explanatory.</p>
-
+				
 				<div id="bettable" class="col-xs-8">
 					<table border="3">
 						<tr>
@@ -302,41 +344,53 @@
 					</table>
 				</div>
 				<div id="bets" class="col-xs-4">
-					<div id="betsSoFar" class="col-xs-12">Bets So Far:</div>
-					
-					<div id="betType" class="col-xs-12">
-						BetType:
-						<select id="betTypeSelect">
-							<option value="-1">Select</option>
-						</select>
-					</div>
-					
-					<div id="betTypeOptions" class="col-xs-12">
-						BetOptions:
-						<select id="betTypeOptionsSelect"></select>
-					</div>
+					<table border="3">
+						<tr>
+							<td id="betType" class="col-xs-12">BetType:</td>
+							<td> 
+								<select id="betTypeSelect">
+									<option value="-1">Select</option>
+								</select>
+							</td>
+						</tr>
+						<tr>
+							<td id="betTypeOptions" class="col-xs-12">BetOptions:</td>
+							<td><select id="betTypeOptionsSelect"></select></td>
+						</tr>
+						<tr>
+							<td id="betTypeOdds" class="col-xs-12">BetOdds:</td>
+							<td><input type="number" id="betTypeOddsValue" value="2" onkeyup="updateOddsTable();"></td>
+						</tr>
+						<tr>
+							<td id="betTypeAmount" class="col-xs-12">BetAmount:</td>
+							<td><input type="number" id="betTypeAmountValue" value="1" onkeyup="updateOddsTable();"></td>
+						</tr>
+						<tr>
+							<td colspan="2" id="placeBetButton" class="col-xs-12">
+								<input type="button" id="addBet" value="PlaceBet!">
+							</td>
+						</tr>
+					</table>
 
-					<div id="betTypeOdds" class="col-xs-12">
-						BetOdds:
-						<input type="number" name="betTypeOddsValue" value="1">
-					</div>
+					<p></p>
+					<p>BetsPlayedSoFar:</p>
+					<table border="3" id="betTableSoFar">
+						<tr>	
+							<td>Bets So Far:</td>
+							<td>NA</td>
+							<td>NA</td>
+							<td>NA</td>
+						</tr>
+					</table>
 
-					<div id="betTypeAmount" class="col-xs-12">
-						BetAmount:
-						<input type="number" name="betTypeAmountValue" value="1">
-					</div>
-
-					<div id="placeBetButton" class="col-xs-12">
-						<input type="button" name="addBet" value="PlaceBet!">
-					</div>
 				</div>
 			</div>
 
 			<div id="menu3" class="tab-pane fade">
 				<p>
 					<dl class="dl-horizontal">
-						<dt>Coded by:</dt>
-						<dd>Rallis Karamichalis, 2016</dd>
+						<dt>BetCalc:</dt>
+						<dd>is self explanatory.</dd>
 						<dt>Github Page:</dt>
 						<dd><a href="http://rallis.github.io/betcalc/" target="_blank">http://rallis.github.io/betcalc/</a></dd>
 						<dt>Github Code:</dt>
@@ -351,37 +405,3 @@
 </body>
 </html>
 
-<!-- <p>
-					<dl class="dl-horizontal">
-						<dt>BetCalc:</dt>
-						<dd>BetCalc is self explanatory.</dd>
-						<dt>Team A:</dt>
-						<dd><input type="text" name="teamA" value="a" /></dd>
-						<dt>Team B:</dt>
-						<dd><input type="text" name="teamA" value="b" /></dd>
-					</dl>
-				</p> -->
-
-				<!-- //$('#listgroupsofmaps').html(outcome);
-
-			// outcome+='<div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#modmap-accordion-'+i+'" href="#modmap-collapse-'+i+'">'+resfetch[i][0]+'&nbsp;&nbsp;<span class="badge">'+resfetch[i][1].length+'</span></a></h4></div>';
-			// var tmp='<div id="modmap-collapse-'+i+'" class="panel-collapse collapse out"><div class="panel-body"><ul class="list-group large-group">';
-			// for(var j=0; j<resfetch[i][1].length; j++){
-			// 	tmp+='<li class="list-group-item"><a href="#">'+resfetch[i][1][j]+'</a></li>';
-			// }
-			// tmp+='</ul></div></div>';
-			// outcome+=tmp;
-				
-			// LOAD PREVIEW CONTENT FOR EACH FILENAME
-			// $(".list-group-item").click(function() {
-			// 	$("#filecontent").html('<img src="img/loading.gif" width="50" height="50"/>');
-			// 	console.log('Loading = '+$(this).text());
-			// 	mapID=$(this).text();
-			// 	$.ajax({
-			// 		url: "maps/"+mapID, 
-			// 		success: function(result){
-			// 			var resfetch=result.split("\n");
-			// 			$("#filecontent").html('<p id="mapId"><strong>'+resfetch[5]+'</strong></p><p>'+resfetch[6]+'</p><a href="load.html?mapid='+mapID+'" target="_blank">Show Map</a><p></p>');
-			// 		}
-			// 	});
-			// }); -->
