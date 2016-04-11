@@ -24,6 +24,11 @@
 		}
 	}
 
+	function removeBetId(betId){
+		betsSoFar.splice(betId, 1);
+		updateOddsTable();
+	}
+
 	function updateOddsTable(){
 		var betType = $("#betTypeSelect option:selected").text();
 		var betTypeOptions = $("#betTypeOptionsSelect option:selected").text();
@@ -77,7 +82,11 @@
 			}
 			
 			console.log("Finished: ",curType,curOption,curOdd,curAmount);
-			betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td><td>'+curStatus+'</td></tr>';
+			if(curStatus=="Fixed"){
+				betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td><td>'+curStatus+'<input type="button" value="Remove" onclick="removeBetId('+ind+')"</td></tr>';
+			}else{
+				betTable +='<tr><td>'+curAmount+'</td><td>'+curOdd+'</td><td>'+curOption+'</td><td>'+curType+'</td><td>'+curStatus+'</td></tr>';
+			}
 		}
 
 		$("#betTableSoFar").html(betTable);
