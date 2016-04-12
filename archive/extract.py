@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 fout = open("output.txt","w")
 fileMin =1
-fileMax =131
+fileMax =144
 
 for fileInd in xrange(fileMin, fileMax+1):
 	print fileInd
@@ -35,12 +35,13 @@ for fileInd in xrange(fileMin, fileMax+1):
 
 		marketData = markets.contents[i].find("div", {"class": "ipe-MarketContainer"})
 		#print marketData
-		marketDetails = marketData.find_all("div", {"class": "ipe-Participant"})
-		#print marketDetails
-		for betMarket in marketDetails:
-			betOption = betMarket.find("span", {"class": "ipe-Participant_OppName"}).text
-			betOdds = betMarket.find("span", {"class": "ipe-Participant_OppOdds"}).text
-			fout.write(str(betOption)+" # "+str(betOdds)+"\n")
+		if marketData!=None:
+			marketDetails = marketData.find_all("div", {"class": "ipe-Participant"})
+			#print marketDetails
+			for betMarket in marketDetails:
+				betOption = betMarket.find("span", {"class": "ipe-Participant_OppName"}).text
+				betOdds = betMarket.find("span", {"class": "ipe-Participant_OppOdds"}).text
+				fout.write(str(betOption)+" # "+str(betOdds)+"\n")
 
 
 fout.close()
