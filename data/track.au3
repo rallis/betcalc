@@ -1,10 +1,15 @@
 
+
+$gameInCurMinute = 1
+
 ConsoleWrite("Ready?! Start in 5 seconds"&@CRLF)
-Sleep(5000)
+Sleep(7000)
 
 $fileToCopy = @DesktopDir&"\bet365.html"
 $i = 0
-While True
+; loop every ~20sec, 3times per minute, 100 - $gameInCurMinute minutes left
+; 90 +extra time (10) + half time (15) ~ 115minutes
+While $i < 3*(115 - $gameInCurMinute)
 
    If FileExists($fileToCopy) Then
 	  ;ConsoleWrite("Deleting!"&@CRLF)
@@ -12,7 +17,6 @@ While True
 	  DirRemove(@DesktopDir&"\bet365_files",1)
    EndIf
    
-	  
    Send("^s")
    sleep(3000)
 
@@ -35,11 +39,9 @@ While True
    $i=$i+1
 
    $newFile = @ScriptDir&"\"&$i&".html"
-   ;ConsoleWrite($fileToCopy&@CRLF)
    ConsoleWrite($newFile&@CRLF)
 
    FileCopy($fileToCopy, $newFile)
-   
    Sleep(10000)
 WEnd
 

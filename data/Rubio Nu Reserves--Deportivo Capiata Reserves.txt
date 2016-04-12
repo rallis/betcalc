@@ -1,0 +1,6894 @@
+###
+###49:18--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.083
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.30
+No 4th Goal # 5.50
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.57
+Under  4.5 # 2.25
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.775
+Deportivo Capiata Reserves 0.0,-0.5 # 2.025
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.775
+Under 4.5,5.0 # 2.025
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 29.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 81.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 11.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 67.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 67.00
+7-1 # 81.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 3.00
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.83
+Even # 1.83
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 3.00
+Deportivo Capiata Reserves # 2.30
+###
+###49:38--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.083
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.30
+No 4th Goal # 5.50
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.775
+Deportivo Capiata Reserves 0.0,-0.5 # 2.025
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 29.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 11.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 67.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 3.00
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 3.00
+Deportivo Capiata Reserves # 2.30
+###
+###49:59--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.083
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.30
+No 4th Goal # 5.50
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.775
+Deportivo Capiata Reserves 0.0,-0.5 # 2.025
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 29.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 11.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 67.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 3.00
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 3.00
+Deportivo Capiata Reserves # 2.30
+###
+###50:19--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.083
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.30
+No 4th Goal # 5.50
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.775
+Deportivo Capiata Reserves 0.0,-0.5 # 2.025
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 29.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 11.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 67.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 3.00
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 3.00
+Deportivo Capiata Reserves # 2.30
+###
+###50:40--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.850
+Under 4.5,5.0 # 1.950
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###51:00--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.850
+Under 4.5,5.0 # 1.950
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###51:21--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 1.95
+##Match Goals
+Over  4.5 # 1.61
+Under  4.5 # 2.20
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.850
+Under 4.5,5.0 # 1.950
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 21.00
+5-1 # 21.00
+5-2 # 23.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###51:41--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.900
+Under 4.5,5.0 # 1.900
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###52:03--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.900
+Under 4.5,5.0 # 1.900
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###52:23--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 5.00
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.900
+Under 4.5,5.0 # 1.900
+##Final Score
+3-2 # 13.00
+4-2 # 29.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.50
+3-3 # 13.00
+4-4 # 41.00
+2-1 # 5.00
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+7-2 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.30
+##Draw No Bet
+Rubio Nu Reserves # 5.50
+Deportivo Capiata Reserves # 1.12
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.30
+###
+###52:44--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.950
+Under 4.5,5.0 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.00
+3-3 # 13.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.37
+###
+###53:04--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.950
+Under 4.5,5.0 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.00
+3-3 # 13.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.37
+###
+###53:25--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.37
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.750
+Deportivo Capiata Reserves 0.0,-0.5 # 2.050
+##Goal Line (1-2)
+Over 4.5,5.0 # 1.950
+Under 4.5,5.0 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 101.00
+2-2 # 6.00
+3-3 # 13.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 41.00
+6-2 # 51.00
+6-3 # 81.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.87
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.87
+Deportivo Capiata Reserves # 2.37
+###
+###53:45--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5,5.0 # 2.000
+Under 4.5,5.0 # 1.800
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 126.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.75
+Deportivo Capiata Reserves # 2.37
+###
+###54:06--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5,5.0 # 2.000
+Under 4.5,5.0 # 1.800
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 126.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.75
+Deportivo Capiata Reserves # 2.37
+###
+###54:26--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5,5.0 # 2.000
+Under 4.5,5.0 # 1.800
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 67.00
+5-4 # 126.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.50
+3-2 # 6.50
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 23.00
+5-1 # 21.00
+5-2 # 26.00
+5-3 # 41.00
+5-4 # 81.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.72
+Deportivo Capiata Reserves # 2.00
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.75
+Deportivo Capiata Reserves # 2.37
+###
+###54:47--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.775
+Under 4.5 # 2.025
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 81.00
+5-4 # 126.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 26.00
+5-1 # 21.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.75
+Deportivo Capiata Reserves # 2.37
+###
+###55:08--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.36
+##Double Chance
+Rubio Nu Reserves or Draw # 3.00
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.775
+Under 4.5 # 2.025
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 34.00
+5-2 # 67.00
+5-3 # 81.00
+5-4 # 126.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 12.00
+4-3 # 26.00
+5-1 # 21.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.00
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.37
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.00
+Draw # 2.75
+Deportivo Capiata Reserves # 2.37
+###
+###55:28--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.825
+Under 4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 67.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.75
+Deportivo Capiata Reserves # 2.40
+###
+###55:49--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.825
+Under 4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 67.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.75
+Deportivo Capiata Reserves # 2.40
+###
+###56:10--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.825
+Under 4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 67.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.75
+Deportivo Capiata Reserves # 2.40
+###
+###56:30--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.40
+No 4th Goal # 4.50
+Deportivo Capiata Reserves # 2.05
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.825
+Under 4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 67.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.50
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 51.00
+6-3 # 101.00
+7-1 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.75
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.00
+Deportivo Capiata Reserves # 1.11
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.75
+Deportivo Capiata Reserves # 2.40
+###
+###56:51--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.875
+Under 4.5 # 1.925
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 67.00
+6-3 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.62
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.62
+Deportivo Capiata Reserves # 2.40
+###
+###57:12--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.725
+Deportivo Capiata Reserves 0.0,-0.5 # 2.075
+##Goal Line (1-2)
+Over 4.5 # 1.875
+Under 4.5 # 1.925
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 6.00
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 26.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 67.00
+6-3 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.62
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.62
+Deportivo Capiata Reserves # 2.40
+###
+###57:32--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.700
+Deportivo Capiata Reserves 0.0,-0.5 # 2.100
+##Goal Line (1-2)
+Over 4.5 # 1.950
+Under 4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 5.50
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 67.00
+6-3 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.62
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.62
+Deportivo Capiata Reserves # 2.40
+###
+###57:53--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.700
+Deportivo Capiata Reserves 0.0,-0.5 # 2.100
+##Goal Line (1-2)
+Over 4.5 # 1.950
+Under 4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 5.50
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 29.00
+5-3 # 51.00
+5-4 # 101.00
+6-1 # 51.00
+6-2 # 67.00
+6-3 # 126.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.62
+Deportivo Capiata Reserves  -1 # 2.40
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.62
+Deportivo Capiata Reserves # 2.40
+###
+###58:13--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.90
+Under  4.5 # 1.80
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.700
+Deportivo Capiata Reserves 0.0,-0.5 # 2.100
+##Goal Line (1-2)
+Over 4.5 # 1.975
+Under 4.5 # 1.825
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 5.50
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+5-4 # 126.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###58:34--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.90
+Under  4.5 # 1.80
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.700
+Deportivo Capiata Reserves 0.0,-0.5 # 2.100
+##Goal Line (1-2)
+Over 4.5 # 1.975
+Under 4.5 # 1.825
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 5.50
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+5-4 # 126.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###58:55--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.33
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.90
+Under  4.5 # 1.80
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0,+0.5 # 1.700
+Deportivo Capiata Reserves 0.0,-0.5 # 2.100
+##Goal Line (1-2)
+Over 4.5 # 1.975
+Under 4.5 # 1.825
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 81.00
+2-2 # 5.50
+3-3 # 15.00
+4-4 # 51.00
+2-1 # 4.33
+3-1 # 5.00
+3-2 # 7.00
+4-1 # 9.50
+4-2 # 13.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+5-4 # 126.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###59:15--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.90
+Under  4.5 # 1.80
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.025
+Under 4.5 # 1.775
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###59:36--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 1.90
+Under  4.5 # 1.80
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.025
+Under 4.5 # 1.775
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###59:56--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.062
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.10
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.025
+Under 4.5 # 1.775
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 23.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.60
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.66
+Deportivo Capiata Reserves # 2.10
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.60
+Deportivo Capiata Reserves # 2.50
+###
+###60:17--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 26.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###60:38--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 26.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###60:58--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.50
+No 4th Goal # 4.00
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 13.00
+4-2 # 34.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 4.00
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 29.00
+5-1 # 26.00
+5-2 # 34.00
+5-3 # 51.00
+6-1 # 51.00
+6-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 6.50
+Deportivo Capiata Reserves # 1.10
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.80
+Even # 1.90
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###61:19--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.775
+Under 4.0,4.5 # 2.025
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 34.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###61:39--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.33
+##Double Chance
+Rubio Nu Reserves or Draw # 3.25
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.775
+Under 4.0,4.5 # 2.025
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 34.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.25
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.25
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###62:00--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.10
+Under  4.5 # 1.66
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.825
+Under 4.0,4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###62:21--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.10
+Under  4.5 # 1.66
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.825
+Under 4.0,4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###62:43--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.10
+Under  4.5 # 1.66
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.825
+Under 4.0,4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###63:02--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.60
+No 4th Goal # 3.75
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.10
+Under  4.5 # 1.66
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.825
+Under 4.0,4.5 # 1.975
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 81.00
+5-3 # 101.00
+2-2 # 5.50
+3-3 # 17.00
+4-4 # 67.00
+2-1 # 3.75
+3-1 # 4.75
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 51.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.50
+Deportivo Capiata Reserves  -1 # 2.50
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.50
+Deportivo Capiata Reserves # 2.50
+###
+###63:23--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.20
+Under  4.5 # 1.61
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.900
+Under 4.0,4.5 # 1.900
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 101.00
+5-3 # 126.00
+2-2 # 5.50
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.40
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.40
+Deportivo Capiata Reserves # 2.60
+###
+###63:43--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.050
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.20
+##Match Goals
+Over  4.5 # 2.20
+Under  4.5 # 1.61
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.900
+Under 4.0,4.5 # 1.900
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 41.00
+5-2 # 101.00
+5-3 # 126.00
+2-2 # 5.50
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 15.00
+4-3 # 34.00
+5-1 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.40
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.61
+Deportivo Capiata Reserves # 2.20
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.40
+Deportivo Capiata Reserves # 2.60
+###
+###64:04--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.25
+##Match Goals
+Over  4.5 # 2.25
+Under  4.5 # 1.57
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.950
+Under 4.0,4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.37
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.00
+Deportivo Capiata Reserves # 1.083
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.37
+Deportivo Capiata Reserves # 2.60
+###
+###64:24--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.25
+##Match Goals
+Over  4.5 # 2.25
+Under  4.5 # 1.57
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.950
+Under 4.0,4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.37
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.37
+Deportivo Capiata Reserves # 2.60
+###
+###64:45--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.25
+##Match Goals
+Over  4.5 # 2.25
+Under  4.5 # 1.57
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.950
+Under 4.0,4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.37
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.37
+Deportivo Capiata Reserves # 2.60
+###
+###65:05--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.62
+No 4th Goal # 3.50
+Deportivo Capiata Reserves # 2.25
+##Match Goals
+Over  4.5 # 2.25
+Under  4.5 # 1.57
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 1.950
+Under 4.0,4.5 # 1.850
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.50
+3-1 # 4.50
+3-2 # 7.00
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+6-1 # 67.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.37
+Deportivo Capiata Reserves  -1 # 2.60
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.37
+Deportivo Capiata Reserves # 2.60
+###
+###65:26--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.40
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.37
+Under  4.5 # 1.53
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.025
+Under 4.0,4.5 # 1.775
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.40
+3-1 # 4.50
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.30
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.30
+Deportivo Capiata Reserves # 2.62
+###
+###65:47--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.30
+##Double Chance
+Rubio Nu Reserves or Draw # 3.40
+Deportivo Capiata Reserves or Draw # 1.040
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.40
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.37
+Under  4.5 # 1.53
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.025
+Under 4.0,4.5 # 1.775
+##Final Score
+3-2 # 13.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 19.00
+4-4 # 81.00
+2-1 # 3.40
+3-1 # 4.50
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.40
+Draw (Deportivo Capiata Reserves ) -1 # 2.30
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.40
+Draw # 2.30
+Deportivo Capiata Reserves # 2.62
+###
+###66:07--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.25
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.075
+Under 4.0,4.5 # 1.725
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 81.00
+2-1 # 3.25
+3-1 # 4.50
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.30
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.30
+Deportivo Capiata Reserves # 2.62
+###
+###66:28--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.25
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.075
+Under 4.0,4.5 # 1.725
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.25
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.62
+###
+###66:48--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.25
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.075
+Under 4.0,4.5 # 1.725
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.25
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.62
+###
+###67:09--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.25
+Deportivo Capiata Reserves # 2.30
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4.0,4.5 # 2.075
+Under 4.0,4.5 # 1.725
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.25
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 10.00
+4-2 # 17.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 67.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.62
+##Draw No Bet
+Rubio Nu Reserves # 7.50
+Deportivo Capiata Reserves # 1.071
+##Last Team to Score
+Rubio Nu Reserves # 1.57
+Deportivo Capiata Reserves # 2.25
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.62
+###
+###67:30--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.37
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.725
+Under 4 # 2.075
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 126.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 81.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.75
+###
+###67:50--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.37
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.725
+Under 4 # 2.075
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 126.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 81.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.75
+###
+###68:11--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.50
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.75
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.37
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.725
+Under 4 # 2.075
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+5-2 # 126.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+6-1 # 81.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.25
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.72
+Even # 2.00
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.25
+Deportivo Capiata Reserves # 2.75
+###
+###68:32--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.40
+##Match Goals
+Over  4.5 # 2.62
+Under  4.5 # 1.44
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.800
+Under 4 # 2.000
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.20
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.20
+Deportivo Capiata Reserves # 2.75
+###
+###68:52--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.40
+##Match Goals
+Over  4.5 # 2.62
+Under  4.5 # 1.44
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.800
+Under 4 # 2.000
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.20
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.20
+Deportivo Capiata Reserves # 2.75
+###
+###69:13--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 3.00
+Deportivo Capiata Reserves # 2.40
+##Match Goals
+Over  4.5 # 2.62
+Under  4.5 # 1.44
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.800
+Under 4 # 2.000
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 21.00
+4-4 # 101.00
+2-1 # 3.00
+3-1 # 4.33
+3-2 # 7.50
+4-1 # 11.00
+4-2 # 19.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.20
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.20
+Deportivo Capiata Reserves # 2.75
+###
+###69:33--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 2.75
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.900
+Under 4 # 1.900
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 23.00
+2-1 # 2.75
+3-1 # 4.33
+3-2 # 8.00
+4-1 # 11.00
+4-2 # 21.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.10
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 2.75
+###
+###69:54--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 2.75
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.900
+Under 4 # 1.900
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 23.00
+2-1 # 2.75
+3-1 # 4.33
+3-2 # 8.00
+4-1 # 11.00
+4-2 # 21.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.10
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 2.75
+###
+###70:15--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.28
+##Double Chance
+Rubio Nu Reserves or Draw # 3.50
+Deportivo Capiata Reserves or Draw # 1.030
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 2.87
+No 4th Goal # 2.75
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.900
+Under 4 # 1.900
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 51.00
+2-2 # 5.00
+3-3 # 23.00
+2-1 # 2.75
+3-1 # 4.33
+3-2 # 8.00
+4-1 # 11.00
+4-2 # 21.00
+4-3 # 41.00
+5-1 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.50
+Draw (Deportivo Capiata Reserves ) -1 # 2.10
+Deportivo Capiata Reserves  -1 # 2.75
+##Draw No Bet
+Rubio Nu Reserves # 8.00
+Deportivo Capiata Reserves # 1.062
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 2.75
+###
+###70:35--Rubio Nu Reserves--1--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 11.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.25
+##Double Chance
+Rubio Nu Reserves or Draw # 3.75
+Deportivo Capiata Reserves or Draw # 1.020
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##4th Goal
+Rubio Nu Reserves # 3.00
+No 4th Goal # 2.62
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  3.5 # 1.44
+Under  3.5 # 2.62
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.975
+Under 4 # 1.825
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 67.00
+2-2 # 5.00
+3-3 # 23.00
+2-1 # 2.62
+3-1 # 4.33
+3-2 # 8.00
+4-1 # 11.00
+4-2 # 21.00
+4-3 # 51.00
+5-1 # 34.00
+5-2 # 51.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.75
+Draw (Deportivo Capiata Reserves ) -1 # 2.10
+Deportivo Capiata Reserves  -1 # 2.87
+##Draw No Bet
+Rubio Nu Reserves # 8.50
+Deportivo Capiata Reserves # 1.050
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.75
+Draw # 2.10
+Deportivo Capiata Reserves # 2.87
+###
+###70:56--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 11.00
+Draw # 4.50
+Deportivo Capiata Reserves # 1.25
+##Double Chance
+Rubio Nu Reserves or Draw # 3.75
+Deportivo Capiata Reserves or Draw # 1.020
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.16
+##5th Goal
+Rubio Nu Reserves # 2.10
+No 5th Goal # 10.50
+Deportivo Capiata Reserves # 1.72
+##Match Goals
+Over  3.5 # 1.44
+Under  3.5 # 2.62
+##Asian Handicap (1-2)
+Rubio Nu Reserves 0.0 # 2.100
+Deportivo Capiata Reserves 0.0 # 1.700
+##Goal Line (1-2)
+Over 4 # 1.975
+Under 4 # 1.825
+##Final Score
+3-2 # 15.00
+4-2 # 41.00
+4-3 # 67.00
+2-2 # 5.00
+3-3 # 23.00
+2-1 # 2.62
+3-1 # 4.33
+3-2 # 8.00
+4-1 # 11.00
+4-2 # 21.00
+4-3 # 51.00
+5-1 # 34.00
+5-2 # 51.00
+6-1 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 3.75
+Draw (Deportivo Capiata Reserves ) -1 # 2.10
+Deportivo Capiata Reserves  -1 # 2.87
+##Draw No Bet
+Rubio Nu Reserves # 8.50
+Deportivo Capiata Reserves # 1.050
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 1.66
+Even # 2.10
+##To Win 2nd Half
+Rubio Nu Reserves # 3.75
+Draw # 2.10
+Deportivo Capiata Reserves # 2.87
+###
+###71:17--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.50
+Draw # 2.20
+Deportivo Capiata Reserves # 3.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.36
+Deportivo Capiata Reserves or Draw # 1.28
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.61
+##5th Goal
+Rubio Nu Reserves # 2.87
+No 5th Goal # 2.75
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  4.5 # 1.40
+Under  4.5 # 2.75
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 1.925
+Under 5 # 1.875
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+2-2 # 2.75
+3-3 # 8.00
+4-4 # 41.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 21.00
+5-2 # 34.00
+5-3 # 51.00
+5-4 # 101.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.36
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.36
+Draw # 3.75
+Deportivo Capiata Reserves # 8.00
+###
+###71:37--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.50
+Draw # 2.20
+Deportivo Capiata Reserves # 3.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.36
+Deportivo Capiata Reserves or Draw # 1.28
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.61
+##5th Goal
+Rubio Nu Reserves # 2.87
+No 5th Goal # 2.75
+Deportivo Capiata Reserves # 2.50
+##Match Goals
+Over  4.5 # 1.40
+Under  4.5 # 2.75
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 1.925
+Under 5 # 1.875
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+2-2 # 2.75
+3-3 # 8.00
+4-4 # 41.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 21.00
+5-2 # 34.00
+5-3 # 51.00
+5-4 # 101.00
+6-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.36
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.50
+Deportivo Capiata Reserves # 2.50
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.36
+Draw # 3.75
+Deportivo Capiata Reserves # 8.00
+###
+###71:58--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 3.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.36
+Deportivo Capiata Reserves or Draw # 1.28
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 2.87
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.60
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.000
+Under 5 # 1.800
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 21.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.36
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.36
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###72:18--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 3.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.36
+Deportivo Capiata Reserves or Draw # 1.28
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 2.87
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.60
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.000
+Under 5 # 1.800
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 21.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.36
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.36
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###72:39--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.50
+Draw # 2.10
+Deportivo Capiata Reserves # 3.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.36
+Deportivo Capiata Reserves or Draw # 1.28
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 2.87
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.60
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.000
+Under 5 # 1.800
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 21.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.36
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.36
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###73:00--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.05
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.075
+Under 5 # 1.725
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.50
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###73:21--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.05
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.075
+Under 5 # 1.725
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.50
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###73:41--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.05
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.66
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.62
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.44
+Under  4.5 # 2.62
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 5 # 2.075
+Under 5 # 1.725
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+2-2 # 2.62
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 12.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 3.75
+Deportivo Capiata Reserves  -1 # 9.50
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.10
+Even # 1.66
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 3.75
+Deportivo Capiata Reserves # 8.50
+###
+###74:02--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.00
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.50
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.50
+Under  4.5 # 2.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.725
+Under 4.5,5.0 # 2.075
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 51.00
+5-3 # 67.00
+2-2 # 2.50
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 10.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.00
+###
+###74:22--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.00
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.50
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.50
+Under  4.5 # 2.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.725
+Under 4.5,5.0 # 2.075
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 51.00
+5-3 # 67.00
+2-2 # 2.50
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 10.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.00
+###
+###74:43--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.60
+Draw # 2.00
+Deportivo Capiata Reserves # 3.10
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.00
+No 5th Goal # 2.50
+Deportivo Capiata Reserves # 2.62
+##Match Goals
+Over  4.5 # 1.50
+Under  4.5 # 2.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.725
+Under 4.5,5.0 # 2.075
+##Final Score
+3-2 # 4.75
+4-2 # 15.00
+4-3 # 26.00
+5-2 # 51.00
+5-3 # 67.00
+2-2 # 2.50
+3-3 # 8.50
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 23.00
+5-2 # 41.00
+5-3 # 51.00
+6-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 10.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.44
+Deportivo Capiata Reserves # 2.62
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.00
+###
+###75:03--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.95
+Deportivo Capiata Reserves # 3.20
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.10
+No 5th Goal # 2.37
+Deportivo Capiata Reserves # 2.75
+##Match Goals
+Over  4.5 # 1.53
+Under  4.5 # 2.37
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.37
+3-3 # 9.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###75:24--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.95
+Deportivo Capiata Reserves # 3.20
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.10
+No 5th Goal # 2.37
+Deportivo Capiata Reserves # 2.75
+##Match Goals
+Over  4.5 # 1.53
+Under  4.5 # 2.37
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.37
+3-3 # 9.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###75:45--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.95
+Deportivo Capiata Reserves # 3.20
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.72
+##5th Goal
+Rubio Nu Reserves # 3.10
+No 5th Goal # 2.37
+Deportivo Capiata Reserves # 2.75
+##Match Goals
+Over  4.5 # 1.53
+Under  4.5 # 2.37
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.800
+Under 4.5,5.0 # 2.000
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.37
+3-3 # 9.00
+4-4 # 51.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 26.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###76:05--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.90
+Deportivo Capiata Reserves # 3.25
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.80
+##5th Goal
+Rubio Nu Reserves # 3.20
+No 5th Goal # 2.25
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.57
+Under  4.5 # 2.25
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.875
+Under 4.5,5.0 # 1.925
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.25
+3-3 # 9.50
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###76:26--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.90
+Deportivo Capiata Reserves # 3.25
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.80
+##5th Goal
+Rubio Nu Reserves # 3.20
+No 5th Goal # 2.25
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.57
+Under  4.5 # 2.25
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.875
+Under 4.5,5.0 # 1.925
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.25
+3-3 # 9.50
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###76:47--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 3.75
+Draw # 1.90
+Deportivo Capiata Reserves # 3.25
+##Double Chance
+Rubio Nu Reserves or Draw # 1.33
+Deportivo Capiata Reserves or Draw # 1.25
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.80
+##5th Goal
+Rubio Nu Reserves # 3.20
+No 5th Goal # 2.25
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.57
+Under  4.5 # 2.25
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.875
+Under 4.5,5.0 # 1.925
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 29.00
+5-2 # 51.00
+5-3 # 81.00
+2-2 # 2.25
+3-3 # 9.50
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 13.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.33
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 11.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.40
+Deportivo Capiata Reserves # 2.75
+##Goals Odd/Even
+Odd # 2.20
+Even # 1.61
+##To Win 2nd Half
+Rubio Nu Reserves # 1.33
+Draw # 4.00
+Deportivo Capiata Reserves # 9.50
+###
+###77:07--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.83
+Deportivo Capiata Reserves # 3.40
+##Double Chance
+Rubio Nu Reserves or Draw # 1.30
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.83
+##5th Goal
+Rubio Nu Reserves # 3.25
+No 5th Goal # 2.10
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.975
+Under 4.5,5.0 # 1.825
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.10
+3-3 # 10.00
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.30
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 12.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.36
+Deportivo Capiata Reserves # 3.00
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.30
+Draw # 4.00
+Deportivo Capiata Reserves # 10.00
+###
+###77:28--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.83
+Deportivo Capiata Reserves # 3.40
+##Double Chance
+Rubio Nu Reserves or Draw # 1.30
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.83
+##5th Goal
+Rubio Nu Reserves # 3.25
+No 5th Goal # 2.10
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.975
+Under 4.5,5.0 # 1.825
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.10
+3-3 # 10.00
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.30
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 12.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.36
+Deportivo Capiata Reserves # 3.00
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.30
+Draw # 4.00
+Deportivo Capiata Reserves # 10.00
+###
+###77:48--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.83
+Deportivo Capiata Reserves # 3.40
+##Double Chance
+Rubio Nu Reserves or Draw # 1.30
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.83
+##5th Goal
+Rubio Nu Reserves # 3.25
+No 5th Goal # 2.10
+Deportivo Capiata Reserves # 2.87
+##Match Goals
+Over  4.5 # 1.66
+Under  4.5 # 2.10
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 1.975
+Under 4.5,5.0 # 1.825
+##Final Score
+3-2 # 4.75
+4-2 # 17.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.10
+3-3 # 10.00
+4-4 # 67.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 29.00
+5-2 # 41.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.30
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 12.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.36
+Deportivo Capiata Reserves # 3.00
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.30
+Draw # 4.00
+Deportivo Capiata Reserves # 10.00
+###
+###78:09--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.80
+Deportivo Capiata Reserves # 3.50
+##Double Chance
+Rubio Nu Reserves or Draw # 1.28
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.90
+##5th Goal
+Rubio Nu Reserves # 3.40
+No 5th Goal # 2.00
+Deportivo Capiata Reserves # 3.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 2.050
+Under 4.5,5.0 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 19.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.00
+3-3 # 10.00
+4-4 # 81.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.28
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 13.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.33
+Deportivo Capiata Reserves # 3.25
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.28
+Draw # 4.00
+Deportivo Capiata Reserves # 11.00
+###
+###78:29--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.80
+Deportivo Capiata Reserves # 3.50
+##Double Chance
+Rubio Nu Reserves or Draw # 1.28
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.90
+##5th Goal
+Rubio Nu Reserves # 3.40
+No 5th Goal # 2.00
+Deportivo Capiata Reserves # 3.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 2.050
+Under 4.5,5.0 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 19.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.00
+3-3 # 10.00
+4-4 # 81.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.28
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 13.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.33
+Deportivo Capiata Reserves # 3.25
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.28
+Draw # 4.00
+Deportivo Capiata Reserves # 11.00
+###
+###78:50--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.80
+Deportivo Capiata Reserves # 3.50
+##Double Chance
+Rubio Nu Reserves or Draw # 1.28
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 1.90
+##5th Goal
+Rubio Nu Reserves # 3.40
+No 5th Goal # 2.00
+Deportivo Capiata Reserves # 3.00
+##Match Goals
+Over  4.5 # 1.72
+Under  4.5 # 2.00
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5,5.0 # 2.050
+Under 4.5,5.0 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 19.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 101.00
+2-2 # 2.00
+3-3 # 10.00
+4-4 # 81.00
+3-2 # 4.33
+4-2 # 15.00
+4-3 # 34.00
+5-2 # 51.00
+5-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.28
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 13.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.33
+Deportivo Capiata Reserves # 3.25
+##Goals Odd/Even
+Odd # 2.25
+Even # 1.57
+##To Win 2nd Half
+Rubio Nu Reserves # 1.28
+Draw # 4.00
+Deportivo Capiata Reserves # 11.00
+###
+###79:11--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.72
+Deportivo Capiata Reserves # 3.60
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.00
+##5th Goal
+Rubio Nu Reserves # 3.60
+No 5th Goal # 1.90
+Deportivo Capiata Reserves # 3.10
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.800
+Under 4.5 # 2.000
+##Final Score
+3-2 # 4.75
+4-2 # 21.00
+4-3 # 41.00
+5-2 # 67.00
+2-2 # 1.90
+3-3 # 11.00
+4-4 # 81.00
+3-2 # 4.33
+4-2 # 17.00
+4-3 # 41.00
+5-2 # 51.00
+5-3 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 15.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.33
+Deportivo Capiata Reserves # 3.25
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.00
+Deportivo Capiata Reserves # 12.00
+###
+###79:32--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.72
+Deportivo Capiata Reserves # 3.60
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.00
+##5th Goal
+Rubio Nu Reserves # 3.60
+No 5th Goal # 1.90
+Deportivo Capiata Reserves # 3.10
+##Match Goals
+Over  4.5 # 1.80
+Under  4.5 # 1.90
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.800
+Under 4.5 # 2.000
+##Final Score
+3-2 # 4.75
+4-2 # 21.00
+4-3 # 41.00
+5-2 # 67.00
+2-2 # 1.90
+3-3 # 11.00
+4-4 # 81.00
+3-2 # 4.33
+4-2 # 17.00
+4-3 # 41.00
+5-2 # 51.00
+5-3 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 15.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.33
+Deportivo Capiata Reserves # 3.25
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.00
+Deportivo Capiata Reserves # 12.00
+###
+###79:52--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.72
+Deportivo Capiata Reserves # 3.60
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.00
+##5th Goal
+Rubio Nu Reserves # 3.60
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.20
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.850
+Under 4.5 # 1.950
+##Final Score
+3-2 # 4.75
+4-2 # 21.00
+4-3 # 41.00
+5-2 # 67.00
+2-2 # 1.83
+3-3 # 12.00
+4-4 # 101.00
+3-2 # 4.33
+4-2 # 17.00
+4-3 # 41.00
+5-2 # 51.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 17.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.30
+Deportivo Capiata Reserves # 3.40
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.00
+Deportivo Capiata Reserves # 13.00
+###
+###80:13--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.72
+Deportivo Capiata Reserves # 3.60
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.00
+##5th Goal
+Rubio Nu Reserves # 3.60
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.20
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.850
+Under 4.5 # 1.950
+##Final Score
+3-2 # 4.75
+4-2 # 21.00
+4-3 # 41.00
+5-2 # 67.00
+2-2 # 1.83
+3-3 # 12.00
+4-4 # 101.00
+3-2 # 4.33
+4-2 # 17.00
+4-3 # 41.00
+5-2 # 51.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 17.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.30
+Deportivo Capiata Reserves # 3.40
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.00
+Deportivo Capiata Reserves # 13.00
+###
+###80:33--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.72
+Deportivo Capiata Reserves # 3.60
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.00
+##5th Goal
+Rubio Nu Reserves # 3.60
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.20
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.850
+Under 4.5 # 1.950
+##Final Score
+3-2 # 4.75
+4-2 # 21.00
+4-3 # 41.00
+5-2 # 67.00
+2-2 # 1.83
+3-3 # 12.00
+4-4 # 101.00
+3-2 # 4.33
+4-2 # 17.00
+4-3 # 41.00
+5-2 # 51.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.00
+Deportivo Capiata Reserves  -1 # 17.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.30
+Deportivo Capiata Reserves # 3.40
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.00
+Deportivo Capiata Reserves # 13.00
+###
+###80:54--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.66
+Deportivo Capiata Reserves # 3.75
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.10
+##5th Goal
+Rubio Nu Reserves # 3.75
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.40
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.950
+Under 4.5 # 1.850
+##Final Score
+3-2 # 4.75
+4-2 # 23.00
+4-3 # 41.00
+5-2 # 81.00
+2-2 # 1.83
+3-3 # 13.00
+3-2 # 4.33
+4-2 # 19.00
+4-3 # 41.00
+5-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 19.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.28
+Deportivo Capiata Reserves # 3.50
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.33
+Deportivo Capiata Reserves # 15.00
+###
+###81:14--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.66
+Deportivo Capiata Reserves # 3.75
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.10
+##5th Goal
+Rubio Nu Reserves # 3.75
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.40
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.950
+Under 4.5 # 1.850
+##Final Score
+3-2 # 4.75
+4-2 # 23.00
+4-3 # 41.00
+5-2 # 81.00
+2-2 # 1.83
+3-3 # 13.00
+3-2 # 4.33
+4-2 # 19.00
+4-3 # 41.00
+5-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 19.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.28
+Deportivo Capiata Reserves # 3.50
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.33
+Deportivo Capiata Reserves # 15.00
+###
+###81:35--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.33
+Draw # 1.66
+Deportivo Capiata Reserves # 3.75
+##Double Chance
+Rubio Nu Reserves or Draw # 1.25
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.10
+##5th Goal
+Rubio Nu Reserves # 3.75
+No 5th Goal # 1.83
+Deportivo Capiata Reserves # 3.40
+##Match Goals
+Over  4.5 # 1.83
+Under  4.5 # 1.83
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.050
+Deportivo Capiata Reserves 0.0 # 1.750
+##Goal Line (2-2)
+Over 4.5 # 1.950
+Under 4.5 # 1.850
+##Final Score
+3-2 # 4.75
+4-2 # 23.00
+4-3 # 41.00
+5-2 # 81.00
+2-2 # 1.83
+3-3 # 13.00
+3-2 # 4.33
+4-2 # 19.00
+4-3 # 41.00
+5-2 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.25
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 19.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.28
+Deportivo Capiata Reserves # 3.50
+##Goals Odd/Even
+Odd # 2.37
+Even # 1.53
+##To Win 2nd Half
+Rubio Nu Reserves # 1.25
+Draw # 4.33
+Deportivo Capiata Reserves # 15.00
+###
+###81:56--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.50
+Draw # 1.61
+Deportivo Capiata Reserves # 4.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.22
+Deportivo Capiata Reserves or Draw # 1.16
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.20
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.72
+Deportivo Capiata Reserves # 3.60
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 1.72
+3-3 # 15.00
+3-2 # 4.33
+4-2 # 21.00
+4-3 # 51.00
+5-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.22
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 21.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.50
+Even # 1.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.22
+Draw # 4.33
+Deportivo Capiata Reserves # 17.00
+###
+###82:16--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.50
+Draw # 1.61
+Deportivo Capiata Reserves # 4.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.22
+Deportivo Capiata Reserves or Draw # 1.16
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.20
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.72
+Deportivo Capiata Reserves # 3.60
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 1.72
+3-3 # 15.00
+3-2 # 4.33
+4-2 # 21.00
+4-3 # 51.00
+5-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.22
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 21.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.50
+Even # 1.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.22
+Draw # 4.33
+Deportivo Capiata Reserves # 17.00
+###
+###82:37--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.50
+Draw # 1.61
+Deportivo Capiata Reserves # 4.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.22
+Deportivo Capiata Reserves or Draw # 1.16
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.20
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.72
+Deportivo Capiata Reserves # 3.60
+##Match Goals
+Over  4.5 # 2.00
+Under  4.5 # 1.72
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.050
+Under 4.5 # 1.750
+##Final Score
+3-2 # 4.75
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 101.00
+2-2 # 1.72
+3-3 # 15.00
+3-2 # 4.33
+4-2 # 21.00
+4-3 # 51.00
+5-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.22
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 21.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.50
+Even # 1.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.22
+Draw # 4.33
+Deportivo Capiata Reserves # 17.00
+###
+###82:58--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.75
+Draw # 1.57
+Deportivo Capiata Reserves # 4.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.22
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.25
+##5th Goal
+Rubio Nu Reserves # 4.33
+No 5th Goal # 1.66
+Deportivo Capiata Reserves # 3.75
+##Match Goals
+Over  4.5 # 2.10
+Under  4.5 # 1.66
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.200
+Under 4.5 # 1.650
+##Final Score
+3-2 # 5.00
+4-2 # 29.00
+4-3 # 51.00
+2-2 # 1.66
+3-3 # 17.00
+3-2 # 4.33
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.22
+Draw (Deportivo Capiata Reserves ) -1 # 4.33
+Deportivo Capiata Reserves  -1 # 26.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.62
+Even # 1.44
+##To Win 2nd Half
+Rubio Nu Reserves # 1.22
+Draw # 4.33
+Deportivo Capiata Reserves # 19.00
+###
+###83:19--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.75
+Draw # 1.53
+Deportivo Capiata Reserves # 4.33
+##Double Chance
+Rubio Nu Reserves or Draw # 1.20
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.37
+##5th Goal
+Rubio Nu Reserves # 4.33
+No 5th Goal # 1.61
+Deportivo Capiata Reserves # 3.75
+##Match Goals
+Over  4.5 # 2.20
+Under  4.5 # 1.61
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.250
+Under 4.5 # 1.625
+##Final Score
+3-2 # 5.00
+4-2 # 34.00
+4-3 # 67.00
+2-2 # 1.61
+3-3 # 19.00
+3-2 # 4.50
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.20
+Draw (Deportivo Capiata Reserves ) -1 # 4.50
+Deportivo Capiata Reserves  -1 # 26.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.62
+Even # 1.44
+##To Win 2nd Half
+Rubio Nu Reserves # 1.20
+Draw # 4.50
+Deportivo Capiata Reserves # 19.00
+###
+###83:39--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.75
+Draw # 1.53
+Deportivo Capiata Reserves # 4.33
+##Double Chance
+Rubio Nu Reserves or Draw # 1.20
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.37
+##5th Goal
+Rubio Nu Reserves # 4.33
+No 5th Goal # 1.61
+Deportivo Capiata Reserves # 3.75
+##Match Goals
+Over  4.5 # 2.20
+Under  4.5 # 1.61
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.250
+Under 4.5 # 1.625
+##Final Score
+3-2 # 5.00
+4-2 # 34.00
+4-3 # 67.00
+2-2 # 1.61
+3-3 # 19.00
+3-2 # 4.50
+4-2 # 26.00
+4-3 # 51.00
+5-2 # 101.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.20
+Draw (Deportivo Capiata Reserves ) -1 # 4.50
+Deportivo Capiata Reserves  -1 # 26.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.25
+Deportivo Capiata Reserves # 3.75
+##Goals Odd/Even
+Odd # 2.62
+Even # 1.44
+##To Win 2nd Half
+Rubio Nu Reserves # 1.20
+Draw # 4.50
+Deportivo Capiata Reserves # 19.00
+###
+###84:00--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.50
+Draw # 1.50
+Deportivo Capiata Reserves # 4.33
+##Double Chance
+Rubio Nu Reserves or Draw # 1.20
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.50
+##5th Goal
+Rubio Nu Reserves # 4.50
+No 5th Goal # 1.57
+Deportivo Capiata Reserves # 4.00
+##Match Goals
+Over  4.5 # 2.25
+Under  4.5 # 1.57
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.300
+Under 4.5 # 1.600
+##Final Score
+3-2 # 5.00
+4-2 # 34.00
+4-3 # 67.00
+2-2 # 1.57
+3-3 # 19.00
+3-2 # 4.50
+4-2 # 29.00
+4-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.20
+Draw (Deportivo Capiata Reserves ) -1 # 4.50
+Deportivo Capiata Reserves  -1 # 29.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.22
+Deportivo Capiata Reserves # 4.00
+##Goals Odd/Even
+Odd # 2.62
+Even # 1.44
+##To Win 2nd Half
+Rubio Nu Reserves # 1.20
+Draw # 4.50
+Deportivo Capiata Reserves # 21.00
+###
+###84:21--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.00
+Draw # 1.50
+Deportivo Capiata Reserves # 4.75
+##Double Chance
+Rubio Nu Reserves or Draw # 1.16
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.50
+##5th Goal
+Rubio Nu Reserves # 4.50
+No 5th Goal # 1.53
+Deportivo Capiata Reserves # 4.00
+##Match Goals
+Over  4.5 # 2.37
+Under  4.5 # 1.53
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.375
+Under 4.5 # 1.550
+##Final Score
+3-2 # 5.50
+4-2 # 34.00
+4-3 # 67.00
+2-2 # 1.53
+3-3 # 21.00
+3-2 # 4.50
+4-2 # 29.00
+4-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.16
+Draw (Deportivo Capiata Reserves ) -1 # 4.75
+Deportivo Capiata Reserves  -1 # 29.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.20
+Deportivo Capiata Reserves # 4.33
+##Goals Odd/Even
+Odd # 2.75
+Even # 1.40
+##To Win 2nd Half
+Rubio Nu Reserves # 1.16
+Draw # 4.75
+Deportivo Capiata Reserves # 21.00
+###
+###84:41--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.00
+Draw # 1.50
+Deportivo Capiata Reserves # 4.75
+##Double Chance
+Rubio Nu Reserves or Draw # 1.16
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.50
+##5th Goal
+Rubio Nu Reserves # 4.50
+No 5th Goal # 1.53
+Deportivo Capiata Reserves # 4.00
+##Match Goals
+Over  4.5 # 2.37
+Under  4.5 # 1.53
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.375
+Under 4.5 # 1.550
+##Final Score
+3-2 # 5.50
+4-2 # 34.00
+4-3 # 67.00
+2-2 # 1.53
+3-3 # 21.00
+3-2 # 4.50
+4-2 # 29.00
+4-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.16
+Draw (Deportivo Capiata Reserves ) -1 # 4.75
+Deportivo Capiata Reserves  -1 # 29.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.20
+Deportivo Capiata Reserves # 4.33
+##Goals Odd/Even
+Odd # 2.75
+Even # 1.40
+##To Win 2nd Half
+Rubio Nu Reserves # 1.16
+Draw # 4.75
+Deportivo Capiata Reserves # 21.00
+###
+###85:00--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.50
+Draw # 1.44
+Deportivo Capiata Reserves # 5.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.14
+Deportivo Capiata Reserves or Draw # 1.12
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.62
+##5th Goal
+Rubio Nu Reserves # 4.75
+No 5th Goal # 1.50
+Deportivo Capiata Reserves # 4.33
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 2.025
+Deportivo Capiata Reserves 0.0 # 1.775
+##Goal Line (2-2)
+Over 4.5 # 2.425
+Under 4.5 # 1.525
+##Final Score
+3-2 # 5.50
+4-2 # 41.00
+4-3 # 81.00
+2-2 # 1.50
+3-3 # 23.00
+3-2 # 4.75
+4-2 # 34.00
+4-3 # 67.00
+##3-Way Handicap
+Rubio Nu Reserves  +1 # 1.14
+Draw (Deportivo Capiata Reserves ) -1 # 5.00
+Deportivo Capiata Reserves  -1 # 34.00
+##Draw No Bet
+Rubio Nu Reserves # 2.00
+Deportivo Capiata Reserves # 1.72
+##Last Team to Score
+Rubio Nu Reserves # 1.20
+Deportivo Capiata Reserves # 4.33
+##Goals Odd/Even
+Odd # 2.75
+Even # 1.40
+##To Win 2nd Half
+Rubio Nu Reserves # 1.14
+Draw # 5.00
+Deportivo Capiata Reserves # 23.00
+###
+###85:21--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.44
+Deportivo Capiata Reserves # 6.50
+##Double Chance
+Rubio Nu Reserves or Draw # 1.10
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.62
+##5th Goal
+Rubio Nu Reserves # 3.75
+No 5th Goal # 1.50
+Deportivo Capiata Reserves # 5.50
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.500
+Under 4.5 # 1.500
+##Final Score
+3-2 # 4.33
+4-2 # 29.00
+4-3 # 67.00
+5-2 # 101.00
+2-2 # 1.50
+3-3 # 23.00
+3-2 # 6.50
+4-2 # 41.00
+4-3 # 81.00
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 29.00
+Draw (Deportivo Capiata Reserves ) +1 # 4.33
+Deportivo Capiata Reserves  +1 # 1.22
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.12
+Deportivo Capiata Reserves # 5.50
+##Goals Odd/Even
+Odd # 2.75
+Even # 1.40
+##To Win 2nd Half
+Rubio Nu Reserves # 1.10
+Draw # 6.50
+Deportivo Capiata Reserves # 29.00
+###
+###85:41--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.00
+Draw # 1.44
+Deportivo Capiata Reserves # 6.50
+##Double Chance
+Rubio Nu Reserves or Draw # 1.10
+Deportivo Capiata Reserves or Draw # 1.22
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.62
+##5th Goal
+Rubio Nu Reserves # 3.75
+No 5th Goal # 1.50
+Deportivo Capiata Reserves # 6.00
+##Match Goals
+Over  4.5 # 2.50
+Under  4.5 # 1.50
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.500
+Under 4.5 # 1.500
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 29.00
+Draw (Deportivo Capiata Reserves ) +1 # 4.33
+Deportivo Capiata Reserves  +1 # 1.22
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.12
+Deportivo Capiata Reserves # 5.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.10
+Draw # 6.50
+Deportivo Capiata Reserves # 29.00
+###
+###86:02--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.50
+Draw # 1.40
+Deportivo Capiata Reserves # 7.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.083
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.75
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.44
+Deportivo Capiata Reserves # 6.00
+##Match Goals
+Over  4.5 # 2.62
+Under  4.5 # 1.44
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.675
+Under 4.5 # 1.450
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 4.50
+Deportivo Capiata Reserves  +1 # 1.20
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.11
+Deportivo Capiata Reserves # 6.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.083
+Draw # 7.00
+Deportivo Capiata Reserves # 29.00
+###
+###86:24--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.50
+Draw # 1.40
+Deportivo Capiata Reserves # 7.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.083
+Deportivo Capiata Reserves or Draw # 1.20
+Rubio Nu Reserves or Deportivo Capiata Reserves # 2.75
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.44
+Deportivo Capiata Reserves # 6.00
+##Match Goals
+Over  4.5 # 2.62
+Under  4.5 # 1.44
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.675
+Under 4.5 # 1.450
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 4.50
+Deportivo Capiata Reserves  +1 # 1.20
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.11
+Deportivo Capiata Reserves # 6.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.083
+Draw # 7.00
+Deportivo Capiata Reserves # 29.00
+###
+###86:44--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 4.75
+Draw # 1.36
+Deportivo Capiata Reserves # 7.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.083
+Deportivo Capiata Reserves or Draw # 1.16
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.00
+##5th Goal
+Rubio Nu Reserves # 4.00
+No 5th Goal # 1.40
+Deportivo Capiata Reserves # 6.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.750
+Under 4.5 # 1.425
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 4.75
+Deportivo Capiata Reserves  +1 # 1.16
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.10
+Deportivo Capiata Reserves # 6.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.083
+Draw # 7.00
+Deportivo Capiata Reserves # 29.00
+###
+###87:05--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.00
+Draw # 1.36
+Deportivo Capiata Reserves # 8.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.083
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.00
+##5th Goal
+Rubio Nu Reserves # 4.33
+No 5th Goal # 1.40
+Deportivo Capiata Reserves # 6.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.850
+Under 4.5 # 1.400
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 5.00
+Deportivo Capiata Reserves  +1 # 1.14
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.10
+Deportivo Capiata Reserves # 6.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.083
+Draw # 8.00
+Deportivo Capiata Reserves # 34.00
+###
+###87:25--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.00
+Draw # 1.36
+Deportivo Capiata Reserves # 8.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.083
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.00
+##5th Goal
+Rubio Nu Reserves # 4.33
+No 5th Goal # 1.40
+Deportivo Capiata Reserves # 6.50
+##Match Goals
+Over  4.5 # 2.75
+Under  4.5 # 1.40
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 2.850
+Under 4.5 # 1.400
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 5.00
+Deportivo Capiata Reserves  +1 # 1.14
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.10
+Deportivo Capiata Reserves # 6.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.083
+Draw # 8.00
+Deportivo Capiata Reserves # 34.00
+###
+###87:46--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.00
+Draw # 1.33
+Deportivo Capiata Reserves # 8.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.071
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.25
+##5th Goal
+Rubio Nu Reserves # 4.50
+No 5th Goal # 1.33
+Deportivo Capiata Reserves # 7.00
+##Match Goals
+Over  4.5 # 3.25
+Under  4.5 # 1.33
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 3.100
+Under 4.5 # 1.350
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 5.00
+Deportivo Capiata Reserves  +1 # 1.14
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.083
+Deportivo Capiata Reserves # 7.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.071
+Draw # 8.00
+Deportivo Capiata Reserves # 34.00
+###
+###88:06--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 5.50
+Draw # 1.28
+Deportivo Capiata Reserves # 9.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.071
+Deportivo Capiata Reserves or Draw # 1.14
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.50
+##5th Goal
+Rubio Nu Reserves # 5.00
+No 5th Goal # 1.30
+Deportivo Capiata Reserves # 7.00
+##Match Goals
+Over  4.5 # 3.40
+Under  4.5 # 1.30
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 3.200
+Under 4.5 # 1.325
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 5.50
+Deportivo Capiata Reserves  +1 # 1.14
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.083
+Deportivo Capiata Reserves # 7.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.071
+Draw # 9.00
+Deportivo Capiata Reserves # 34.00
+###
+###88:27--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 6.00
+Draw # 1.25
+Deportivo Capiata Reserves # 9.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.062
+Deportivo Capiata Reserves or Draw # 1.12
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.75
+##5th Goal
+Rubio Nu Reserves # 5.00
+No 5th Goal # 1.28
+Deportivo Capiata Reserves # 7.50
+##Match Goals
+Over  4.5 # 3.50
+Under  4.5 # 1.28
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 3.550
+Under 4.5 # 1.275
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 6.00
+Deportivo Capiata Reserves  +1 # 1.12
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.083
+Deportivo Capiata Reserves # 7.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.062
+Draw # 9.00
+Deportivo Capiata Reserves # 34.00
+###
+###88:48--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 6.00
+Draw # 1.25
+Deportivo Capiata Reserves # 9.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.062
+Deportivo Capiata Reserves or Draw # 1.12
+Rubio Nu Reserves or Deportivo Capiata Reserves # 3.75
+##5th Goal
+Rubio Nu Reserves # 5.00
+No 5th Goal # 1.28
+Deportivo Capiata Reserves # 7.50
+##Match Goals
+Over  4.5 # 3.50
+Under  4.5 # 1.28
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 3.550
+Under 4.5 # 1.275
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 6.00
+Deportivo Capiata Reserves  +1 # 1.12
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.083
+Deportivo Capiata Reserves # 7.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.062
+Draw # 9.00
+Deportivo Capiata Reserves # 34.00
+###
+###89:09--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 6.50
+Draw # 1.22
+Deportivo Capiata Reserves # 10.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.050
+Deportivo Capiata Reserves or Draw # 1.11
+Rubio Nu Reserves or Deportivo Capiata Reserves # 4.00
+##5th Goal
+Rubio Nu Reserves # 5.50
+No 5th Goal # 1.25
+Deportivo Capiata Reserves # 8.00
+##Match Goals
+Over  4.5 # 3.75
+Under  4.5 # 1.25
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 3.800
+Under 4.5 # 1.250
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 6.50
+Deportivo Capiata Reserves  +1 # 1.11
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.071
+Deportivo Capiata Reserves # 7.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.050
+Draw # 10.00
+Deportivo Capiata Reserves # 41.00
+###
+###89:29--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 1.20
+Deportivo Capiata Reserves # 11.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.050
+Deportivo Capiata Reserves or Draw # 1.10
+Rubio Nu Reserves or Deportivo Capiata Reserves # 4.33
+##5th Goal
+Rubio Nu Reserves # 6.00
+No 5th Goal # 1.20
+Deportivo Capiata Reserves # 8.00
+##Match Goals
+Over  4.5 # 4.33
+Under  4.5 # 1.20
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 4.150
+Under 4.5 # 1.220
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 7.00
+Deportivo Capiata Reserves  +1 # 1.10
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.062
+Deportivo Capiata Reserves # 8.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.050
+Draw # 11.00
+Deportivo Capiata Reserves # 41.00
+###
+###89:50--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 7.00
+Draw # 1.20
+Deportivo Capiata Reserves # 11.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.050
+Deportivo Capiata Reserves or Draw # 1.10
+Rubio Nu Reserves or Deportivo Capiata Reserves # 4.33
+##5th Goal
+Rubio Nu Reserves # 6.00
+No 5th Goal # 1.20
+Deportivo Capiata Reserves # 8.00
+##Match Goals
+Over  4.5 # 4.33
+Under  4.5 # 1.20
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 4.150
+Under 4.5 # 1.220
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 7.00
+Deportivo Capiata Reserves  +1 # 1.10
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.062
+Deportivo Capiata Reserves # 8.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.050
+Draw # 11.00
+Deportivo Capiata Reserves # 41.00
+###
+###90:10--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 8.00
+Draw # 1.16
+Deportivo Capiata Reserves # 11.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.040
+Deportivo Capiata Reserves or Draw # 1.083
+Rubio Nu Reserves or Deportivo Capiata Reserves # 4.50
+##5th Goal
+Rubio Nu Reserves # 6.50
+No 5th Goal # 1.20
+Deportivo Capiata Reserves # 8.50
+##Match Goals
+Over  4.5 # 4.33
+Under  4.5 # 1.20
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 4.500
+Under 4.5 # 1.190
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 8.00
+Deportivo Capiata Reserves  +1 # 1.083
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.062
+Deportivo Capiata Reserves # 8.00
+##To Win 2nd Half
+Rubio Nu Reserves # 1.040
+Draw # 11.00
+Deportivo Capiata Reserves # 41.00
+###
+###90:32--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 1.14
+Deportivo Capiata Reserves # 13.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.030
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 5.00
+##5th Goal
+Rubio Nu Reserves # 7.50
+No 5th Goal # 1.14
+Deportivo Capiata Reserves # 9.50
+##Match Goals
+Over  4.5 # 5.00
+Under  4.5 # 1.14
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 5.250
+Under 4.5 # 1.160
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 9.00
+Deportivo Capiata Reserves  +1 # 1.071
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.050
+Deportivo Capiata Reserves # 8.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.030
+Draw # 13.00
+Deportivo Capiata Reserves # 51.00
+###
+###90:52--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 9.00
+Draw # 1.14
+Deportivo Capiata Reserves # 13.00
+##Double Chance
+Rubio Nu Reserves or Draw # 1.030
+Deportivo Capiata Reserves or Draw # 1.071
+Rubio Nu Reserves or Deportivo Capiata Reserves # 5.00
+##5th Goal
+Rubio Nu Reserves # 7.50
+No 5th Goal # 1.14
+Deportivo Capiata Reserves # 9.50
+##Match Goals
+Over  4.5 # 5.00
+Under  4.5 # 1.14
+##Asian Handicap (2-2)
+Rubio Nu Reserves 0.0 # 1.550
+Deportivo Capiata Reserves 0.0 # 2.375
+##Goal Line (2-2)
+Over 4.5 # 5.250
+Under 4.5 # 1.160
+##3-Way Handicap
+Rubio Nu Reserves  -1 # 34.00
+Draw (Deportivo Capiata Reserves ) +1 # 9.00
+Deportivo Capiata Reserves  +1 # 1.071
+##Draw No Bet
+Rubio Nu Reserves # 1.53
+Deportivo Capiata Reserves # 2.37
+##Last Team to Score
+Rubio Nu Reserves # 1.050
+Deportivo Capiata Reserves # 8.50
+##To Win 2nd Half
+Rubio Nu Reserves # 1.030
+Draw # 13.00
+Deportivo Capiata Reserves # 51.00
+###
+###91:13--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##Fulltime Result
+Rubio Nu Reserves # 10.00
+Draw # 1.10
+Deportivo Capiata Reserves # 11.00
+##5th Goal
+Rubio Nu Reserves # 8.00
+No 5th Goal # 1.12
+Deportivo Capiata Reserves # 10.00
+###
+###91:34--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.10
+Deportivo Capiata Reserves # SP
+###
+###91:55--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.10
+Deportivo Capiata Reserves # SP
+###
+###92:15--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.062
+Deportivo Capiata Reserves # SP
+###
+###92:36--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.040
+Deportivo Capiata Reserves # SP
+###
+###92:55--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.020
+Deportivo Capiata Reserves # SP
+###
+###93:16--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.020
+Deportivo Capiata Reserves # SP
+###
+###93:36--Rubio Nu Reserves--2--Deportivo Capiata Reserves--2
+###
+##5th Goal
+Rubio Nu Reserves # SP
+No 5th Goal # 1.012
+Deportivo Capiata Reserves # SP
