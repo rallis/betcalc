@@ -9,8 +9,8 @@
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 	<script>
-	var dbg = false;
-	var bets, betsSoFar=[], betsPlayed;
+	var dbg = false, teamAscore=0, teamBscore=0, maxScore = 5;
+	var bets, betsSoFar=[], betsPlayed, betOddsTable, fMat;
 	
 	function geturlparamvalue(name) {
 		name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
@@ -24,9 +24,32 @@
 		}
 	}
 
+	function createOddsTable(){
+		betOddsTable = '<table border="3"><tr><td class="tableborder cellstyle">A - B</td>';
+		for(var i=0; i<=maxScore; i++){ betOddsTable += '<td class="tableborder cellstyle">X - '+i+'</td>';	}
+		betOddsTable += '</tr>';
+		for(var i=0; i<=maxScore; i++){
+			betOddsTable += '<tr><td class="cellstyle tableborder">'+i+' - X</td>';
+			for(var j=0; j<=maxScore; j++){
+				betOddsTable += '<td class="cellstyle">'+i+' - '+j+'<div id="'+i+'x'+j+'">0</div></td>';
+			}
+			betOddsTable += '</tr>';			
+		}
+		betOddsTable += '</table>';				
+		$("#bettable").html(betOddsTable);
+		$(".cellstyle").css("background-color","lightgrey");
+		$(".tableborder").css("background-color","#F8B801");
+		updateOddsTable();
+	}
+
 	function removeBetId(betId){
 		betsSoFar.splice(betId, 1);
 		updateOddsTable();
+	}
+
+	function updateMaxScore(){
+		maxScore = parseFloat($("#maxScore option:selected").text());
+		createOddsTable();
 	}
 
 	function updateOddsTable(){
@@ -42,10 +65,15 @@
 		betsPlayed.push([betType, betTypeOptions, betTypeOddsValue, betTypeAmountValue, "NotFixedYet"]);
 		console.log("betsPlayed=",betsPlayed);
 		
-		var fMat=[];
-		for(var i=0; i<=10; i++){
-			fMat.push([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
+		fMat=[];
+		for(var i=0; i<= maxScore; i++){
+			fMat.push([]);
+			for(var j=0; j<= maxScore; j++){
+				fMat[i].push(0);	
+			}
 		}
+		//console.log("fMatrow=",fMat);
+		
 
 		var curType, curOption, curOdd, curAmount, curStatus, betTable='<tr><th>$$$</th><th>Odds</th><th>Option</th><th>Type</th><th>Status</th></tr>';
 		for(var ind=0; ind<betsPlayed.length; ind++){
@@ -54,10 +82,12 @@
 			curOdd = betsPlayed[ind][2];
 			curAmount = betsPlayed[ind][3];
 			curStatus = betsPlayed[ind][4];
+			if (isNaN(curOdd)){ curOdd = 0; }
+			if (isNaN(curAmount)){ curAmount = 0; } 
 			console.log("Starting: ",curType,curOption,curOdd,curAmount);
 
-			for(var i=0; i<=10; i++){
-				for(var j=0; j<=10; j++){
+			for(var i=0; i<=maxScore; i++){
+				for(var j=0; j<=maxScore; j++){
 					switch(curType+'#'+curOption){
 						//1x2
 						case '1x2#1':
@@ -186,6 +216,116 @@
 							if(i+j< 9.5){fMat[i][j]+= (curOdd-1)*curAmount}
 							if(i+j>=9.5){fMat[i][j]-= curAmount}
 							break;
+						//score
+						case 'score#0-0':
+							if(i==0 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#0-1':
+							if(i==0 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#0-2':
+							if(i==0 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#0-3':
+							if(i==0 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#0-4':
+							if(i==0 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#0-5':
+							if(i==0 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-0':
+							if(i==1 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-1':
+							if(i==1 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-2':
+							if(i==1 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-3':
+							if(i==1 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-4':
+							if(i==1 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#1-5':
+							if(i==1 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-0':
+							if(i==2 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-1':
+							if(i==2 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-2':
+							if(i==2 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-3':
+							if(i==2 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-4':
+							if(i==2 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#2-5':
+							if(i==2 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-0':
+							if(i==3 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-1':
+							if(i==3 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-2':
+							if(i==3 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-3':
+							if(i==3 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-4':
+							if(i==3 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#3-5':
+							if(i==3 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-0':
+							if(i==4 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-1':
+							if(i==4 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-2':
+							if(i==4 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-3':
+							if(i==4 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-4':
+							if(i==4 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#4-5':
+							if(i==4 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-0':
+							if(i==5 && j==0){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-1':
+							if(i==5 && j==1){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-2':
+							if(i==5 && j==2){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-3':
+							if(i==5 && j==3){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-4':
+							if(i==5 && j==4){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						case 'score#5-5':
+							if(i==5 && j==5){fMat[i][j]+= (curOdd-1)*curAmount}else{fMat[i][j]-= curAmount}
+							break;
+						
 					}
 				}
 			}
@@ -200,21 +340,44 @@
 
 		$("#betTableSoFar").html(betTable);
 
+		teamAscore = $("#teamAscore").val();
+		teamBscore = $("#teamBscore").val();	
 		//console.log(fMat);
-		for(var i=0; i<=10; i++){
-			for(var j=0; j<=10; j++){
+		for(var i=0; i<=maxScore; i++){
+			for(var j=0; j<=maxScore; j++){
 				$("#"+i+"x"+j).html(+fMat[i][j].toFixed(2));
 				if(fMat[i][j]>0){ $("#"+i+"x"+j).css("background-color", "green"); }
 				if(fMat[i][j]==0){ $("#"+i+"x"+j).css("background-color", "lightgrey"); }
 				if(fMat[i][j]<0){ $("#"+i+"x"+j).css("background-color", "red"); }
+				if((i<teamAscore) || (j<teamBscore)){$("#"+i+"x"+j).css("background-color", "black");}
 			}
 		}
 	}
 
 	$(document).ready(function(){
-		$(".cellstyle").css("background-color","lightgrey");
-		$(".tableborder").css("background-color","#F8B801");
-		
+
+		$('#maxScore').append($('<option>', {
+		    value: -1,
+		    text: "Select"
+		}));
+		for(var i=2; i<=12; i++){
+			$('#maxScore').append($('<option>', {
+			    value: i,
+			    text: i
+			}));
+		}
+
+		for(var i=0; i<=maxScore; i++){
+			$('#teamAscore').append($('<option>', {
+			    value: i,
+			    text: i
+			}));
+			$('#teamBscore').append($('<option>', {
+			    value: i,
+			    text: i
+			}));
+		}
+
 		$.ajax({url: "./bets.txt", success: function(result){
 			bets=JSON.parse(result)['bets'];
 			//console.log(bets);
@@ -261,6 +424,21 @@
 			}
 		});
 
+		if(parseFloat(geturlparamvalue('maxScore'))!=-1){ 
+			maxScore = parseFloat(geturlparamvalue('maxScore'));
+		}
+		if(parseFloat(geturlparamvalue('teamAscore'))!=-1){ 
+			teamAscore = parseFloat(geturlparamvalue('teamAscore'));
+			$('#teamAscore').val(teamAscore);
+		}
+		if(parseFloat(geturlparamvalue('teamBscore'))!=-1){ 
+			teamBscore = parseFloat(geturlparamvalue('teamBscore'));
+			$('#teamBscore').val(teamBscore);
+		}
+		
+		createOddsTable();
+		//updateOddsTable();
+
 	});
 
 	</script>
@@ -297,178 +475,12 @@
 				<p></p>
 				
 				<div id="bettable" class="col-xs-8">
-					<table border="3">
-						<tr>
-							<td class="tableborder cellstyle">A - B</td>
-							<td class="tableborder cellstyle">X - 0</td>
-							<td class="tableborder cellstyle">X - 1</td>
-							<td class="tableborder cellstyle">X - 2</td>
-							<td class="tableborder cellstyle">X - 3</td>
-							<td class="tableborder cellstyle">X - 4</td>
-							<td class="tableborder cellstyle">X - 5</td>
-							<td class="tableborder cellstyle">X - 6</td>
-							<td class="tableborder cellstyle">X - 7</td>
-							<td class="tableborder cellstyle">X - 8</td>
-							<td class="tableborder cellstyle">X - 9</td>
-							<td class="tableborder cellstyle">X - 10</td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">0 - X</td>
-							<td class="cellstyle">0 - 0<div id="0x0">0</div></td>
-							<td class="cellstyle">0 - 1<div id="0x1">0</div></td>
-							<td class="cellstyle">0 - 2<div id="0x2">0</div></td>
-							<td class="cellstyle">0 - 3<div id="0x3">0</div></td>
-							<td class="cellstyle">0 - 4<div id="0x4">0</div></td>
-							<td class="cellstyle">0 - 5<div id="0x5">0</div></td>
-							<td class="cellstyle">0 - 6<div id="0x6">0</div></td>
-							<td class="cellstyle">0 - 7<div id="0x7">0</div></td>
-							<td class="cellstyle">0 - 8<div id="0x8">0</div></td>
-							<td class="cellstyle">0 - 9<div id="0x9">0</div></td>
-							<td class="cellstyle">0 - 10<div id="0x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">1 - X</td>
-							<td class="cellstyle">1 - 0<div id="1x0">0</div></td>
-							<td class="cellstyle">1 - 1<div id="1x1">0</div></td>
-							<td class="cellstyle">1 - 2<div id="1x2">0</div></td>
-							<td class="cellstyle">1 - 3<div id="1x3">0</div></td>
-							<td class="cellstyle">1 - 4<div id="1x4">0</div></td>
-							<td class="cellstyle">1 - 5<div id="1x5">0</div></td>
-							<td class="cellstyle">1 - 6<div id="1x6">0</div></td>
-							<td class="cellstyle">1 - 7<div id="1x7">0</div></td>
-							<td class="cellstyle">1 - 8<div id="1x8">0</div></td>
-							<td class="cellstyle">1 - 9<div id="1x9">0</div></td>
-							<td class="cellstyle">1 - 10<div id="1x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">2 - X</td>
-							<td class="cellstyle">2 - 0<div id="2x0">0</div></td>
-							<td class="cellstyle">2 - 1<div id="2x1">0</div></td>
-							<td class="cellstyle">2 - 2<div id="2x2">0</div></td>
-							<td class="cellstyle">2 - 3<div id="2x3">0</div></td>
-							<td class="cellstyle">2 - 4<div id="2x4">0</div></td>
-							<td class="cellstyle">2 - 5<div id="2x5">0</div></td>
-							<td class="cellstyle">2 - 6<div id="2x6">0</div></td>
-							<td class="cellstyle">2 - 7<div id="2x7">0</div></td>
-							<td class="cellstyle">2 - 8<div id="2x8">0</div></td>
-							<td class="cellstyle">2 - 9<div id="2x9">0</div></td>
-							<td class="cellstyle">2 - 10<div id="2x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">3 - X</td>
-							<td class="cellstyle">3 - 0<div id="3x0">0</div></td>
-							<td class="cellstyle">3 - 1<div id="3x1">0</div></td>
-							<td class="cellstyle">3 - 2<div id="3x2">0</div></td>
-							<td class="cellstyle">3 - 3<div id="3x3">0</div></td>
-							<td class="cellstyle">3 - 4<div id="3x4">0</div></td>
-							<td class="cellstyle">3 - 5<div id="3x5">0</div></td>
-							<td class="cellstyle">3 - 6<div id="3x6">0</div></td>
-							<td class="cellstyle">3 - 7<div id="3x7">0</div></td>
-							<td class="cellstyle">3 - 8<div id="3x8">0</div></td>
-							<td class="cellstyle">3 - 9<div id="3x9">0</div></td>
-							<td class="cellstyle">3 - 10<div id="3x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">4 - X</td>
-							<td class="cellstyle">4 - 0<div id="4x0">0</div></td>
-							<td class="cellstyle">4 - 1<div id="4x1">0</div></td>
-							<td class="cellstyle">4 - 2<div id="4x2">0</div></td>
-							<td class="cellstyle">4 - 3<div id="4x3">0</div></td>
-							<td class="cellstyle">4 - 4<div id="4x4">0</div></td>
-							<td class="cellstyle">4 - 5<div id="4x5">0</div></td>
-							<td class="cellstyle">4 - 6<div id="4x6">0</div></td>
-							<td class="cellstyle">4 - 7<div id="4x7">0</div></td>
-							<td class="cellstyle">4 - 8<div id="4x8">0</div></td>
-							<td class="cellstyle">4 - 9<div id="4x9">0</div></td>
-							<td class="cellstyle">4 - 10<div id="4x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">5 - X</td>
-							<td class="cellstyle">5 - 0<div id="5x0">0</div></td>
-							<td class="cellstyle">5 - 1<div id="5x1">0</div></td>
-							<td class="cellstyle">5 - 2<div id="5x2">0</div></td>
-							<td class="cellstyle">5 - 3<div id="5x3">0</div></td>
-							<td class="cellstyle">5 - 4<div id="5x4">0</div></td>
-							<td class="cellstyle">5 - 5<div id="5x5">0</div></td>
-							<td class="cellstyle">5 - 6<div id="5x6">0</div></td>
-							<td class="cellstyle">5 - 7<div id="5x7">0</div></td>
-							<td class="cellstyle">5 - 8<div id="5x8">0</div></td>
-							<td class="cellstyle">5 - 9<div id="5x9">0</div></td>
-							<td class="cellstyle">5 - 10<div id="5x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">6 - X</td>
-							<td class="cellstyle">6 - 0<div id="6x0">0</div></td>
-							<td class="cellstyle">6 - 1<div id="6x1">0</div></td>
-							<td class="cellstyle">6 - 2<div id="6x2">0</div></td>
-							<td class="cellstyle">6 - 3<div id="6x3">0</div></td>
-							<td class="cellstyle">6 - 4<div id="6x4">0</div></td>
-							<td class="cellstyle">6 - 5<div id="6x5">0</div></td>
-							<td class="cellstyle">6 - 6<div id="6x6">0</div></td>
-							<td class="cellstyle">6 - 7<div id="6x7">0</div></td>
-							<td class="cellstyle">6 - 8<div id="6x8">0</div></td>
-							<td class="cellstyle">6 - 9<div id="6x9">0</div></td>
-							<td class="cellstyle">6 - 10<div id="6x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">7 - X</td>
-							<td class="cellstyle">7 - 0<div id="7x0">0</div></td>
-							<td class="cellstyle">7 - 1<div id="7x1">0</div></td>
-							<td class="cellstyle">7 - 2<div id="7x2">0</div></td>
-							<td class="cellstyle">7 - 3<div id="7x3">0</div></td>
-							<td class="cellstyle">7 - 4<div id="7x4">0</div></td>
-							<td class="cellstyle">7 - 5<div id="7x5">0</div></td>
-							<td class="cellstyle">7 - 6<div id="7x6">0</div></td>
-							<td class="cellstyle">7 - 7<div id="7x7">0</div></td>
-							<td class="cellstyle">7 - 8<div id="7x8">0</div></td>
-							<td class="cellstyle">7 - 9<div id="7x9">0</div></td>
-							<td class="cellstyle">7 - 10<div id="7x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">8 - X</td>
-							<td class="cellstyle">8 - 0<div id="8x0">0</div></td>
-							<td class="cellstyle">8 - 1<div id="8x1">0</div></td>
-							<td class="cellstyle">8 - 2<div id="8x2">0</div></td>
-							<td class="cellstyle">8 - 3<div id="8x3">0</div></td>
-							<td class="cellstyle">8 - 4<div id="8x4">0</div></td>
-							<td class="cellstyle">8 - 5<div id="8x5">0</div></td>
-							<td class="cellstyle">8 - 6<div id="8x6">0</div></td>
-							<td class="cellstyle">8 - 7<div id="8x7">0</div></td>
-							<td class="cellstyle">8 - 8<div id="8x8">0</div></td>
-							<td class="cellstyle">8 - 9<div id="8x9">0</div></td>
-							<td class="cellstyle">8 - 10<div id="8x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">9 - X</td>
-							<td class="cellstyle">9 - 0<div id="9x0">0</div></td>
-							<td class="cellstyle">9 - 1<div id="9x1">0</div></td>
-							<td class="cellstyle">9 - 2<div id="9x2">0</div></td>
-							<td class="cellstyle">9 - 3<div id="9x3">0</div></td>
-							<td class="cellstyle">9 - 4<div id="9x4">0</div></td>
-							<td class="cellstyle">9 - 5<div id="9x5">0</div></td>
-							<td class="cellstyle">9 - 6<div id="9x6">0</div></td>
-							<td class="cellstyle">9 - 7<div id="9x7">0</div></td>
-							<td class="cellstyle">9 - 8<div id="9x8">0</div></td>
-							<td class="cellstyle">9 - 9<div id="9x9">0</div></td>
-							<td class="cellstyle">9 - 10<div id="9x10">0</div></td>
-						</tr>
-						<tr>
-							<td class="cellstyle tableborder">10 - X</td>
-							<td class="cellstyle">10 - 0<div id="10x0">0</div></td>
-							<td class="cellstyle">10 - 1<div id="10x1">0</div></td>
-							<td class="cellstyle">10 - 2<div id="10x2">0</div></td>
-							<td class="cellstyle">10 - 3<div id="10x3">0</div></td>
-							<td class="cellstyle">10 - 4<div id="10x4">0</div></td>
-							<td class="cellstyle">10 - 5<div id="10x5">0</div></td>
-							<td class="cellstyle">10 - 6<div id="10x6">0</div></td>
-							<td class="cellstyle">10 - 7<div id="10x7">0</div></td>
-							<td class="cellstyle">10 - 8<div id="10x8">0</div></td>
-							<td class="cellstyle">10 - 9<div id="10x9">0</div></td>
-							<td class="cellstyle">10 - 10<div id="10x10">0</div></td>
-						</tr>
-					</table>
 				</div>
 				<div id="bets" class="col-xs-4">
+					MaxScore: <select id="maxScore" onchange="updateMaxScore()"></select>
+					<p></p>
+					Current Score: <select id="teamAscore" onchange="updateOddsTable()"></select> - <select id="teamBscore" onchange="updateOddsTable()"></select>
+					<p></p>
 					<table border="3">
 						<tr>
 							<td id="betType" class="col-xs-12">BetType:</td>
@@ -529,4 +541,3 @@
 
 </body>
 </html>
-
