@@ -24,7 +24,8 @@ for fileInd in xrange(fileMin, fileMax+1):
 	else:
 		soup = BeautifulSoup(fin.read(), "html.parser")
 		navbar = soup.find("div", {"class": "ml1-ScoreHeader "})
-		if navbar==None: 1/0
+		if navbar==None:
+			continue
 
 		teamA = navbar.contents[0].contents[0].contents[0].text
 		teamAscore = navbar.contents[0].contents[0].contents[1].text
